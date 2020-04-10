@@ -1,0 +1,26 @@
+baseURL = "http://intranet.aio.eu/"
+languageCode = "fr-fr"
+title = "AIO"
+theme = "dream"
+
+
+[params]
+  # background = "black"
+  backgroundImage = "/background.jpg"
+  linkColor = "mediumaquamarine"
+
+  author = "AIO intern"
+  # description = "top"
+  avatar = "/AIO-logo.png"
+  motto = "AIO"
+  
+  email = "florian.boudinet@aio.eu"
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
