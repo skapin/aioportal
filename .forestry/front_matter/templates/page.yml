@@ -20,9 +20,20 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Vie ensemble
+    - Projet de substitution
+    - Soutenir L'activité
+    - Conditions Sanitaires
+    min: 1
+    max: 1
 - type: list
   name: tags
   label: tags
 - type: text
-  name: "<!-- draft"
-  label: "<!-- draft"
+  name: draft
+  label: draft
