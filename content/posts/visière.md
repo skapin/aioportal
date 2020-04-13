@@ -8,4 +8,4 @@ tags = ["covid"]
 title = "Visière"
 
 +++
-Visière 3d
+Visière 3d. A imprimer  !
