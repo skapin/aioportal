@@ -40,3 +40,4 @@ fields:
   default: "/uploads/uploads/cover5.png"
 pages:
 - content/posts/agv.md
+- content/posts/visière.md
