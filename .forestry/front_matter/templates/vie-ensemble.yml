@@ -25,3 +25,4 @@ fields:
   label: tags
 pages:
 - content/ddd.md
+- content/posts/tt.md
