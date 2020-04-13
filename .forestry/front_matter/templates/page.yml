@@ -37,3 +37,5 @@ fields:
 - type: text
   name: draft
   label: draft
+pages:
+- content/posts/agv.md
