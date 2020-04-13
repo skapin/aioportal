@@ -4,7 +4,7 @@
 <article class="ui raised card dream-card">
 {{ end }}
   <div class="image">
-    {{ if isset .Params "cover" }}
+    {{ if isset .Params "cover" | and  (eq .Params.mdrposticon "") }}
       <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
     {{ else }}
       <img src="/postcover/cover{{ index (shuffle (seq 1 6)) 0 }}.png" alt="{{ .Title }}" />
