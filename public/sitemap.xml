@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://intranet.aio.eu/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/tags/aio/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/categories/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/tags/cse/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/posts/ouverturesite/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/posts/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/tags/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/categories/vie-ensemble/</loc>
+    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/about/</loc>
+    <lastmod>2020-04-10T16:43:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aio.eu/about/desc/</loc>
+    <lastmod>2020-04-10T16:43:22+02:00</lastmod>
+  </url>
+  
+</urlset>
