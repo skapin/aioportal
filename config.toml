@@ -1,4 +1,4 @@
-baseURL = "http://intranet.aio.eu/"
+baseURL = "http://intranet.aiotools.ovh"
 languageCode = "fr-fr"
 title = "AIO"
 theme = "dream"
