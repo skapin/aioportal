@@ -15,14 +15,11 @@ fields:
   name: author
   label: author
 - type: text
-  name: "<!-- cover"
-  label: "<!-- cover"
+  name: cover
+  label: cover
 - type: list
   name: categories
   label: categories
 - type: list
   name: tags
   label: tags
-- type: text
-  name: "<!-- draft"
-  label: "<!-- draft"
