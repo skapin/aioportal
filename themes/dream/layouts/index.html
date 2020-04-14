@@ -3,9 +3,9 @@
   <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
     {{ partial "header.html" . }}
   </div>
-  <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+<!--   <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
     {{ partial "staticcard.html" . }}
-  </div>
+  </div> -->
 
   {{ $paginator := .Paginate (where .Site.RegularPages "Section" "!=" "about") }}
   {{ range $paginator.Pages }}
