@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - page
+  - projet-substitution
 - type: directory
   path: content/posts
   label: Posts
