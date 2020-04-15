@@ -28,6 +28,6 @@ fields:
     maxSize: 250
   label: cover
   description: Image de couverture du post
-  default: "/uploads/uploads/cover5.png"
+  default: "/uploads/uploads/cover1.png"
 pages:
 - content/projets-de-substitution/test-proj-sub-2.md
