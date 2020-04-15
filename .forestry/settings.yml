@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/vie-ensemble
+  label: Vie Ensemble
+  create: all
+  match: "**/*"
+  templates:
+  - projet-substitution
+- type: directory
   path: content/projets-de-substitution
   label: Projets de substitution
   create: all
