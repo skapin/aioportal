@@ -3,6 +3,14 @@ languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
 [[menu.main]]
+name = "Soutenir L'activité"
+url = "soutenir-l-activite"
+weight = 4
+[[menu.main]]
+name = "Conditions Sanitaires"
+url = "conditions-sanitaires"
+weight = 3
+[[menu.main]]
 name = "Vie Ensemble"
 url = "vie-ensemble"
 weight = 2
