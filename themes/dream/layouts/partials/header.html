@@ -25,23 +25,25 @@
       </a>
     </div>
   </section>
-
   {{ if .Site.Menus.main }}
   <section class="ui attached center aligned segment dream-tags">
+    <h3>Menu</h3>
+    <!-- <span class="ui">Menu</span> -->
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
       <a class="ui label" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+      <br>
     {{ end }}
   </section>
   {{ end }}
 
-  {{ if .Site.Taxonomies.tags }}
+<!--   {{ if .Site.Taxonomies.tags }}
   <section class="ui attached center aligned segment dream-tags">
     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
       <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">{{ $name }}</a>
     {{ end }}
   </section>
-  {{ end }}
+  {{ end }} -->
 <!-- 
   <section class="ui attached segment dream-categories">
     <div class="ui accordion">
