@@ -4,10 +4,10 @@
 
 {{ define "main"}}
 <div class="ui centered relaxed grid dream-grid">
-  <div class="sixteen wide mobile sixteen wide tablet four wide computer column">
+  <!-- <div class="sixteen wide mobile sixteen wide tablet four wide computer column">
     {{ partial "header.html" . }}
-  </div>
-  <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column">
+  </div> -->
+  <div class="sixteen wide mobile sixteen wide tablet wide computer column"> <!-- twelve -->
     <div class="ui segment dream-tags-section">
       <h2 class="ui header">
         {{ i18n "allTags" }}
@@ -24,8 +24,8 @@
       {{ range .Data.Terms.Alphabetical }}
         {{ $termLink := printf "/%s/%s/" $data.Plural .Term | urlize }}
         <h3 class="ui header">
-          <a href="{{ $termLink }}">{{ .Term }}</a>
-          {{ i18n "article" .Count }}
+          <a class="ui label blue" href="{{ $termLink }}">{{ .Term }}</a>
+          <small>{{ i18n "article" .Count }}</small>
         </h3>
         <ul>
           {{ range .Pages }}

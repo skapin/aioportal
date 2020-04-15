@@ -20,10 +20,12 @@
       <div class="flipper">
         <section class="front">
           {{ partial "nav.html" . }}
+          {{ partial "header_aio.html" . }}
           {{ block "main" . }} {{ end }}
         </section>
         <section class="back">
           {{ partial "nav.html" . }}
+          {{ partial "header_aio.html" . }}
           {{ partial "back.html" . }}
         </section>
       </div>
