@@ -1,0 +1,25 @@
+---
+label: Projet Substitution
+hide_body: false
+fields:
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: title
+  label: title
+- type: text
+  name: date
+  label: date
+- type: text
+  name: lastmod
+  label: lastmod
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
