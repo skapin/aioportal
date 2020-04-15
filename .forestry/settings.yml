@@ -12,7 +12,7 @@ sections:
   templates:
   - soutenir-l-activite
 - type: directory
-  path: content/contitions-sanitaires
+  path: content/conditions-sanitaires
   label: Conditions Sanitaires
   create: all
   match: "**/*"
