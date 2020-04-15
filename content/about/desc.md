@@ -1,12 +1,8 @@
 ---
-title: Desc
-date: 2020-04-10T16:43:22+02:00
-lastmod: 2020-04-10T16:43:22+02:00
-<!-- draft: true -->
+title: 'Informations Générales '
+date: 2020-04-10T14:43:22.000+00:00
+lastmod: 2020-04-10T14:43:22.000+00:00
+"<!-- draft": ''
+
 ---
-
-Cut out summary from your post content here.
-
-<!--more-->
-
-The remaining content of your post.
+Info de notre choix
