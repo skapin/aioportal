@@ -5,14 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: soutenir-l-activite
+  path: content/soutenir-l-activite
   label: Soutenir L'activité
   create: all
   match: "**/*"
   templates:
   - soutenir-l-activite
 - type: directory
-  path: contitions-sanitaires
+  path: content/contitions-sanitaires
   label: Conditions Sanitaires
   create: all
   match: "**/*"
