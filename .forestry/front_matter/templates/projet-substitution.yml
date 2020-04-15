@@ -2,29 +2,30 @@
 label: Projet Substitution
 hide_body: false
 fields:
-- type: file
-  name: cover
-  label: cover
 - type: text
   name: title
   label: title
-- type: text
+- type: datetime
   name: date
   label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
 - type: text
   name: author
   label: author
-- type: list
+- type: text
   name: categories
-  label: categories
-  config:
-    use_select: false
-    source:
-      type: simple
-      section: projets-de-substitution
-    min: 1
-    max: 1
+  label: categories  
   hidden: true
+  default: "Projets de substitution"
 - type: list
   name: tags
   label: tags
+- name: cover
+  type: file
+  config:
+    maxSize: 250
+  label: cover
+  description: Image de couverture du post
+  default: "/uploads/uploads/cover5.png"
