@@ -1,26 +1,15 @@
 baseURL = "http://intranet.aiotools.ovh"
 languageCode = "fr-fr"
-title = "AIO"
 theme = "dream"
-
-
+title = "AIO"
 [params]
-  # background = "black"
-  backgroundImage = "/background.jpg"
-  linkColor = "mediumaquamarine"
-
-  author = "AIO intern"
-  # description = "top"
-  avatar = "/AIO-logo.png"
-  motto = "AIO"
-  
-  email = "florian.boudinet@aio.eu"
-
-  siteStartYear = 2020
-
-  # favicon = "/favicon.ico"
-
-  # dark mode
-  darkLinkColor = "darkseagreen"
-  darkNav = true 
-  dark404Button = true
+author = "AIO intern"
+avatar = "/AIO-logo.png"
+backgroundImage = "/background.jpg"
+dark404Button = true
+darkLinkColor = "darkseagreen"
+darkNav = true
+email = "florian.boudinet@aio.eu"
+linkColor = "mediumaquamarine"
+motto = "AIO"
+siteStartYear = 2020
