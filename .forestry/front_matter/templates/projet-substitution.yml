@@ -20,6 +20,14 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: false
+    source:
+      type: simple
+      section: projets-de-substitution
+    min: 1
+    max: 1
+  hidden: true
 - type: list
   name: tags
   label: tags
