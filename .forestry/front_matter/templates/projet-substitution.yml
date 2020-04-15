@@ -31,3 +31,4 @@ fields:
   default: "/uploads/uploads/cover1.png"
 pages:
 - content/projets-de-substitution/test-proj-sub-2.md
+- content/vie-ensemble/test.md
