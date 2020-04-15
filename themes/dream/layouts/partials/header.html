@@ -31,7 +31,10 @@
     <!-- <span class="ui">Menu</span> -->
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-      <a class="ui label" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+      <a  class="ui label" 
+          href="{{ .URL }}" 
+          title="{{ .Name }}"
+          style="width: 150px;">{{ .Name }}</a>
       <br>
     {{ end }}
   </section>
