@@ -26,6 +26,15 @@
     </div>
   </section>
 
+  {{ if .Site.Menus.main }}
+  <section class="ui attached center aligned segment dream-tags">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      <a class="ui label" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+    {{ end }}
+  </section>
+  {{ end }}
+
   {{ if .Site.Taxonomies.tags }}
   <section class="ui attached center aligned segment dream-tags">
     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
@@ -33,8 +42,40 @@
     {{ end }}
   </section>
   {{ end }}
+<!-- 
+  <section class="ui attached segment dream-categories">
+    <div class="ui accordion">
+      {{ $currentPage := . }}
+      ->{{ $currentPage }}<-
+      {{ range .Site.Menus.main2 }}
+        {{ if .HasChildren }}
+          <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    <a href="#">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+                <ul class="sub-menu">
+                    {{ range .Children }}
+                        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                            <a href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            {{ else }}
+                <li>
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+            
+        {{ end }}  
+      {{ end }}  
+    </div>
+  </section> -->
 
-  {{ if .Site.Taxonomies.categories }}
+<!--   {{ if .Site.Taxonomies.categories }}
   <section class="ui attached segment dream-categories">
     <div class="ui accordion">
       {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
@@ -56,7 +97,7 @@
       {{ end }}
     </div>
   </section>
-  {{ end }}
+  {{ end }} -->
 
   <section class="ui bottom attached center aligned segment">
       <a href="https://aio.eu/" alt="Site aio">aio.eu</a> - 
