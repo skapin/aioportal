@@ -1,6 +1,6 @@
 +++
 author = "Florian"
-categories = ["Projet de substitution"]
+categories = ["Projets de substitution"]
 cover = "/uploads/uploads/cover5.png"
 date = ""
 lastmod = ""

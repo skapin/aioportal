@@ -23,7 +23,7 @@ fields:
       type: simple
     options:
     - Vie ensemble
-    - Projet de substitution
+    - Projets de substitution
     - Soutenir L'activité
     - Conditions Sanitaires
     min: 1

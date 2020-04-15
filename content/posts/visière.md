@@ -1,6 +1,6 @@
 +++
 author = "Florian Boudinet"
-categories = ["Projet de substitution"]
+categories = ["Projets de substitution"]
 cover = "/uploads/postcover/cover2.png"
 date = 2020-04-12T22:00:00Z
 lastmod = ""
