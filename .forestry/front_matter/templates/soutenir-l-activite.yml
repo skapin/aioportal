@@ -29,5 +29,3 @@ fields:
   label: cover
   description: Image de couverture du post
   default: "/uploads/uploads/cover3.png"
-pages:
-- soutenir-l-activite/soutenir-act.md

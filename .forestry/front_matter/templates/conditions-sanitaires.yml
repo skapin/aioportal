@@ -30,4 +30,4 @@ fields:
   description: Image de couverture du post
   default: "/uploads/uploads/cover2.png"
 pages:
-- contitions-sanitaires/test2.md
+- content/contitions-sanitaires/test-san.md
