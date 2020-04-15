@@ -12,9 +12,6 @@ fields:
   name: date
   label: date
 - type: text
-  name: lastmod
-  label: lastmod
-- type: text
   name: author
   label: author
 - type: list
