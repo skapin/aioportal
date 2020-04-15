@@ -3,14 +3,12 @@ languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
 [[menu.main]]
-name = "getting started"
-post = "<span class='alert'>New!</span>"
-pre = "<i class='fa fa-road'></i>"
-url = "/getting-started/"
+name = "Vie Ensemble"
+url = "vie-ensemble"
 weight = 2
 [[menu.main]]
 identifier = "about"
-name = "Poejt de substitution"
+name = "Pojets de substitution"
 pre = "<i class='fa fa-heart'></i>"
 url = "/projets-de-substitution"
 weight = 1
