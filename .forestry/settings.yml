@@ -5,6 +5,20 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: soutenir-l-activite
+  label: Soutenir L'activité
+  create: all
+  match: "**/*"
+  templates:
+  - soutenir-l-activite
+- type: directory
+  path: contitions-sanitaires
+  label: Conditions Sanitaires
+  create: all
+  match: "**/*"
+  templates:
+  - conditions-sanitaires
+- type: directory
   path: content/vie-ensemble
   label: Vie Ensemble
   create: all
