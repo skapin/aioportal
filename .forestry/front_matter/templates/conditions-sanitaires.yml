@@ -33,7 +33,7 @@ fields:
   type: text
   config:
     required: false
-    min: 5
+    min: 
     max: 16
   label: Youtube Video ID
   description: ID de la video youtube <br>partie après le v=<br>/<em>watch?v=</em>MLVaRtWmVdM<br>
