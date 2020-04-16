@@ -2,8 +2,38 @@
 label: CSE
 hide_body: false
 fields:
-- name: test
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+  hidden: true
+  default: CSE
+- type: list
+  name: tags
+  label: tags
+- name: cover
+  type: file
+  config:
+    maxSize: 250
+  label: cover
+  description: Image de couverture du post
+  default: "/postcover/cover5.png"
+- name: youtube_video_id
   type: text
   config:
     required: false
-  label: test
+    min: 
+    max: 16
+  label: Youtube Video ID
+  description: ID de la video youtube <br>partie après le v=<br>/<em>watch?v=</em>MLVaRtWmVdM<br>
