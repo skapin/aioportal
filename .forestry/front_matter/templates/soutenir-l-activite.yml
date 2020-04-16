@@ -29,5 +29,13 @@ fields:
   label: cover
   description: Image de couverture du post
   default: "/postcover/cover3.png"
+- name: youtube_video_id
+  type: text
+  config:
+    required: false
+    min: 
+    max: 16
+  label: Youtube Video ID
+  description: ID de la video youtube <br>partie après le v=<br>/<em>watch?v=</em>MLVaRtWmVdM<br>
 pages:
 - content/soutenir-l-activite/act.md
