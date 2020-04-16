@@ -28,7 +28,7 @@ fields:
     maxSize: 250
   label: cover
   description: Image de couverture du post
-  default: "/uploads/cover2.png"
+  default: "/postcover/cover2.png"
 - name: youtube_video_id
   type: text
   config:
