@@ -4,7 +4,9 @@
       <section class="ui top attached center aligned segment">
         <div class="ui small image">
           {{ if isset .Site.Params "avatar" }}
-            <img src="{{ .Site.Params.avatar }}">
+            <a href="{{ .Site.BaseURL }}" title="Home">
+              <img src="{{ .Site.Params.avatar }}">
+            </a>
           {{ end }}
         </div>
 
@@ -25,7 +27,7 @@
               style="width: 150px;">{{ .Name }}</a>
         {{ end }}
         <div style="width: 200px;"></div>
-        <div class="ui horizontal list">
+<!--         <div class="ui horizontal list">
           {{ if gt (len (where .Site.RegularPages "Section" "==" "posts")) 0 }}
           <a class="item" href="/posts">
             <i class="archive icon" title="{{ i18n "archives" }}"></i>
@@ -37,7 +39,7 @@
           <a class="item" href="/categories">
             <i class="th list icon" title="{{ i18n "allCategories" }}"></i>
           </a>
-        </div>
+        </div> -->
       </section>
       {{ end }}
     <!--   <section class="ui bottom attached center aligned segment">

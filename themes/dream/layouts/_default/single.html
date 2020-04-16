@@ -14,6 +14,11 @@
           <div class="sub header">@ {{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }} · {{ .Date.Format "Monday, Jan 2, 2006" }} · {{ .ReadingTime }}{{ i18n "minuteRead" }} · {{ i18n "updateAt" }} {{ dateFormat "Jan 2, 2006" .Lastmod }}</div>
         </h2>
       </header>
+      {{ if isset .Params "pdf_link" | and  (ne .Params.pdf_link "") }}
+        <div style="text-align: center;margin:2%;">
+          <embed src= "{{.Params.pdf_link}}" width= "90%" height="500px">
+        </div>
+      {{ end }}    
       {{ if isset .Params "youtube_video_id" | and  (ne .Params.youtube_video_id "") }}
         <div style="text-align: center;margin:2%;">
           <iframe 
