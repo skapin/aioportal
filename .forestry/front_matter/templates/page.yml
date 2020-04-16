@@ -38,5 +38,3 @@ fields:
   label: cover
   description: Image de couverture du post
   default: "/uploads/cover5.png"
-pages:
-- content/projets-de-substitution/nouveau-projet-de-substitution.md
