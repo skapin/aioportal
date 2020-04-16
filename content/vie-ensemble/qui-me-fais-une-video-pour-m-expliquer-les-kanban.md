@@ -6,7 +6,7 @@ date = 2020-04-15T22:00:00Z
 lastmod = ""
 pdf_link = ""
 tags = []
-title = "Qui me fais une video pour m'expliquer les KANBAN?"
+title = "Une video pour m'expliquer les KANBAN?"
 youtube_video_id = ""
 
 +++
