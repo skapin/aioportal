@@ -3,23 +3,27 @@ languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
 [[menu.main]]
+name = "Rester à flot"
+url = "/rester-a-flot"
+weight = 5
+[[menu.main]]
 name = "Conditions Sanitaires"
 url = "/conditions-sanitaires"
-weight = 3
+weight = 1
 [[menu.main]]
 name = "Soutenir L'activité"
 url = "/soutenir-l-activite"
-weight = 4
+weight = 2
 [[menu.main]]
 name = "Vie Ensemble"
 url = "/vie-ensemble"
-weight = 2
+weight = 4
 [[menu.main]]
 identifier = "about"
 name = "Projets de substitution"
 pre = "<i class='fa fa-heart'></i>"
 url = "/projets-de-substitution"
-weight = 1
+weight = 3
 [params]
 author = "AIO intern"
 avatar = "/AIO-logo.png"
