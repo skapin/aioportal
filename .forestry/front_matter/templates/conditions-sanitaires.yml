@@ -44,5 +44,6 @@ fields:
   label: pdf
   description: Charger un PDF
 pages:
+- content/conditions-sanitaires/départ-des-masques-depuis-un-entrepôt-d-aubervilliers-aujourd-hui-ou-au-plus-tard-demain-matin-via-chronopost-nous-espérons-les-recevoir-lundi-ou-mardi-suivant-les-difficultés-de-chronopost-à-nous-livrer.md
 - content/conditions-sanitaires/désinfection-du-rdc-du-batiment-de-pessac.md
 - content/conditions-sanitaires/une-arrivée-bien-protégée.md
