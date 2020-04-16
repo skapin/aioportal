@@ -1,12 +1,12 @@
 +++
-author = ""
+author = "HPOP"
 categories = "Soutenir L'activité"
-cover = "/postcover/cover3.png"
+cover = "/uploads/cover5.png"
 date = ""
 lastmod = ""
 pdf_link = ""
 tags = []
-title = "test"
+title = "Et AIO tu me montres un Karakuri Kaizen et pourquoi c'est faire?"
 youtube_video_id = ""
 
 +++
