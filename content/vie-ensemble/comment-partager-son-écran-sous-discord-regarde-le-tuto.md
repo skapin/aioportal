@@ -3,7 +3,6 @@ author = "FBOU"
 categories = "Projets de substitution"
 cover = "/Discord-Une.png"
 date = 2020-04-15T22:00:00Z
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
