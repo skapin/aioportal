@@ -3,7 +3,6 @@ author = "HPOP"
 categories = "Soutenir L'activité"
 cover = "/uploads/cover5.png"
 date = 2020-04-15T22:00:00Z
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
