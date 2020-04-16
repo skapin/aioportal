@@ -28,6 +28,6 @@ fields:
     maxSize: 250
   label: cover
   description: Image de couverture du post
-  default: "/uploads/uploads/cover3.png"
+  default: "/uploads/cover3.png"
 pages:
 - content/soutenir-l-activite/act.md

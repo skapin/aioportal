@@ -4,7 +4,7 @@
 <article class="ui raised card dream-card">
 {{ end }}
   <div class="image">
-    {{ if isset .Params "cover" | and  (eq .Params.mdrposticon "") }}
+    {{ if isset .Params "cover" | and  (ne .Params.cover "") }}
       <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
     {{ else }}
       <img src="/postcover/cover{{ index (shuffle (seq 1 6)) 0 }}.png" alt="{{ .Title }}" />
@@ -18,7 +18,7 @@
     <div class="meta">
       <p class="date">{{ .Date.Format "Lundi, 1 Mars, 2020" }}</p>
       <p class="author">@ {{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}</p>
-    </div>
+    </div> 
     <div class="description">
       {{ .Summary | plainify | htmlUnescape }}
     </div>
