@@ -30,4 +30,5 @@ fields:
   description: Image de couverture du post
   default: "/uploads/uploads/cover2.png"
 pages:
+- content/conditions-sanitaires/désinfection-du-rdc-du-batiment-de-pessac.md
 - content/conditions-sanitaires/san.md
