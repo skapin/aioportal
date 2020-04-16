@@ -44,5 +44,6 @@ fields:
   label: pdf
   description: Charger un PDF
 pages:
+- content/projets-de-substitution/test-pdf.md
 - content/projets-de-substitution/test-proj-sub-2.md
 - content/vie-ensemble/test.md
