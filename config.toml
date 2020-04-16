@@ -3,6 +3,10 @@ languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
 [[menu.main]]
+name = "CSE"
+url = "/content/cse"
+weight = 6
+[[menu.main]]
 name = "Rester à flot"
 url = "/rester-a-flot"
 weight = 5
