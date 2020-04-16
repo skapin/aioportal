@@ -9,11 +9,15 @@ sections:
   label: CSE
   create: all
   match: "**/*"
+  templates:
+  - cse
 - type: directory
   path: content/rester-a-flot
   label: Rester à flot
   create: all
   match: "**/*"
+  templates:
+  - rester-a-flot
 - type: directory
   path: content/soutenir-l-activite
   label: Soutenir L'activité
