@@ -5,9 +5,18 @@
 {{ end }}
   <div class="image">
     {{ if isset .Params "cover" | and  (ne .Params.cover "") }}
-      <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
+      <!-- <a href="{{ .Permalink }}"> -->
+        <img  src="{{ .Params.cover }}" 
+              alt="{{ .Title }}" 
+              style="cursor: pointer;"
+              onclick="window.location.href = '{{ .Permalink }}'"/>
+      <!-- </a> -->
     {{ else }}
-      <img src="/postcover/cover{{ index (shuffle (seq 1 6)) 0 }}.png" alt="{{ .Title }}" />
+      <!-- <a href="{{ .Permalink }}"> -->
+        <img  src="/postcover/cover{{ index (shuffle (seq 1 6)) 0 }}.png" 
+              alt="{{ .Title }}" 
+              onclick="window.location.href = '{{ .Permalink }}'"/>
+      <!-- </a> -->
     {{ end }}
   </div>
 
