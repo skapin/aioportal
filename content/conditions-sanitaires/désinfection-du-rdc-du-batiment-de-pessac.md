@@ -3,7 +3,6 @@ author = "Cyril"
 categories = "Conditions Sanitaires"
 cover = "/uploads/BUSE5.jpg"
 date = 2020-04-15T22:00:00Z
-draft = true
 lastmod = ""
 tags = []
 title = "Désinfection du RDC du batiment de Pessac"
