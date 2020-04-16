@@ -37,5 +37,11 @@ fields:
     max: 16
   label: Youtube Video ID
   description: ID de la video youtube <br>partie après le v=<br>/<em>watch?v=</em>MLVaRtWmVdM<br>
+- name: pdf_link
+  type: file
+  config:
+    maxSize: 250
+  label: pdf
+  description: Charger un PDF
 pages:
 - content/soutenir-l-activite/act.md

@@ -6,6 +6,5 @@ date = ""
 lastmod = ""
 tags = []
 title = "Nouveau projet de substitution"
-
 +++
 Projet de substitution
