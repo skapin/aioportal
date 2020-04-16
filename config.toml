@@ -7,11 +7,11 @@ name = "Rester à flot"
 url = "/rester-a-flot"
 weight = 5
 [[menu.main]]
-name = "Conditions Sanitaires"
+name = "Sécurité & Conditions sanitaires"
 url = "/conditions-sanitaires"
 weight = 1
 [[menu.main]]
-name = "Soutenir L'activité"
+name = "Soutenir l'activité"
 url = "/soutenir-l-activite"
 weight = 2
 [[menu.main]]
