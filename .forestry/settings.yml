@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/cse
+  label: CSE
+  create: all
+  match: "**/*"
+- type: directory
   path: content/rester-a-flot
   label: Rester à flot
   create: all
