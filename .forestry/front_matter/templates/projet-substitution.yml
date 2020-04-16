@@ -45,4 +45,5 @@ fields:
   description: Charger un PDF
 pages:
 - content/projets-de-substitution/test-pdf.md
+- content/vie-ensemble/comment-partager-son-écran-sous-discord-regarde-le-tuto.md
 - content/vie-ensemble/test.md
