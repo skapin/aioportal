@@ -1,8 +1,8 @@
 +++
-author = "florian"
+author = "CDAN"
 categories = "Projets de substitution"
 cover = "/pointes-de-pizza-sur-une-guirlande-de-fete-2.jpg"
-date = 2020-04-14T22:00:00Z
+date = 2020-04-15T22:00:00Z
 lastmod = ""
 pdf_link = ""
 tags = []
