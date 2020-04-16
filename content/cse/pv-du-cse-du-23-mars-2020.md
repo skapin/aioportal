@@ -10,4 +10,4 @@ title = "PV du CSE du 23 mars 2020"
 youtube_video_id = ""
 
 +++
-A votre disposition
+Bonne lecture du PV du 23 mars
