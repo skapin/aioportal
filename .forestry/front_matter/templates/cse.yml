@@ -43,3 +43,5 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
+pages:
+- content/cse/pv-du-cse-du-13-mars-2020.md
