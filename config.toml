@@ -16,7 +16,7 @@ url = "/vie-ensemble"
 weight = 2
 [[menu.main]]
 identifier = "about"
-name = "Pojets de substitution"
+name = "Projets de substitution"
 pre = "<i class='fa fa-heart'></i>"
 url = "/projets-de-substitution"
 weight = 1
