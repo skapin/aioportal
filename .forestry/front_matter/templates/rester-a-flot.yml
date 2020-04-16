@@ -1,0 +1,28 @@
+---
+label: Rester à flot
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+- type: file
+  name: cover
+  label: cover
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: lastmod
+  label: lastmod
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: text
+  name: youtube_video_id
+  label: youtube_video_id
