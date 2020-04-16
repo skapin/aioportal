@@ -29,6 +29,14 @@ fields:
   label: cover
   description: Image de couverture du post
   default: "/uploads/cover2.png"
+- name: youtube_video_id
+  type: text
+  config:
+    required: false
+    min: 5
+    max: 16
+  label: Youtube Video ID
+  description: ID de la video youtube <br>partie après le v=<br>/<em>watch?v=</em>MLVaRtWmVdM<br>
 pages:
 - content/conditions-sanitaires/désinfection-du-rdc-du-batiment-de-pessac.md
 - content/conditions-sanitaires/san.md
