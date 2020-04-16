@@ -6,8 +6,8 @@ date = 2020-04-15T22:00:00Z
 lastmod = ""
 pdf_link = ""
 tags = []
-title = "test pdf"
+title = "Un pouce mousse à pédale"
 youtube_video_id = ""
 
 +++
-Découvert ce matin en rentrant dans la société, une astuce de l'équipe ROUGE. Que Loic a aussitôt vendu à Schneider 2 premiers exemplaires ... Merci de vos KAIZEN et vos nouvelles idées de produits ou de services 
+Découvert ce matin en rentrant dans la société, une astuce de l'équipe ROUGE. Que Loic a aussitôt vendu à Schneider 2 premiers exemplaires ... Merci de vos KAIZEN et vos nouvelles idées de produits ou de services. Découvrez la vidéo avec un petit clic
