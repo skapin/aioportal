@@ -39,7 +39,4 @@ fields:
   description: Image de couverture du post
   default: "/uploads/cover5.png"
 pages:
-- content/posts/agv.md
-- content/posts/tt.md
-- content/posts/visière.md
 - content/projets-de-substitution/nouveau-projet-de-substitution.md

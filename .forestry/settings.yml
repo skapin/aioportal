@@ -43,11 +43,6 @@ sections:
   templates:
   - projet-substitution
 - type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
   path: content/about
   label: About
   create: all
