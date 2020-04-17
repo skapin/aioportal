@@ -1,14 +1,15 @@
 +++
-author = ""
+author = "Hello!"
 categories = "CSE"
-cover = "/FAF009A01_1.jpg"
+cover = "/postcover/cover3.png"
 date = 2020-04-16T22:00:00Z
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
-title = "test"
+title = "Titre"
 youtube_video_id = ""
 
 +++
-fgdfgdf
+Ceci est un article.
+
+![](/uploads/cover5.png)
