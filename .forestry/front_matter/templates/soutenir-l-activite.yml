@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: datetime
-  name: lastmod
-  label: lastmod
 - type: text
   name: author
   label: author
