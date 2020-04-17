@@ -25,7 +25,7 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
     <div class="meta">
-      <p class="date">{{ .Date.Format "Lundi, 1 Mars, 2020" }}</p>
+      <p class="date">{{ .Date.Format "Monday, Jan 2, 2006" }}</p>
       <p class="author">@ {{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}</p>
     </div> 
     <div class="description">

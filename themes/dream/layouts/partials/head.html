@@ -26,6 +26,9 @@
 <link rel="stylesheet" href="/css/github-markdown.css" />
 <link rel="stylesheet" href="/css/semantic.min.css" />
 <link rel="stylesheet" href="/css/site.css" />
+{{ range .Site.Params.custom_css -}}
+  <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
 
 {{ if .Site.Params.linkColor }}
 <style>
