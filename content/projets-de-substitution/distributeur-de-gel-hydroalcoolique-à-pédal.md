@@ -1,7 +1,7 @@
 +++
 author = "Holly"
 categories = "Projets de substitution"
-cover = "/KKR #032 thumbnail.png"
+cover = "/Gel.png"
 date = 2020-04-17T11:00:00Z
 lastmod = ""
 pdf_link = ""
