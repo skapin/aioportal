@@ -6,28 +6,33 @@ title = "AIO"
 name = "CSE"
 url = "/cse/"
 weight = 6
+identifier = "orange"
 [[menu.main]]
 name = "Rester à flot"
 url = "/rester-a-flot/"
 weight = 5
+identifier = "yellow"
 [[menu.main]]
 name = "Sécurité & Conditions sanitaires"
 url = "/conditions-sanitaires/"
 weight = 1
+identifier = "blue"
 [[menu.main]]
 name = "Soutenir l'activité"
 url = "/soutenir-l-activite/"
 weight = 2
+identifier = "teal"
 [[menu.main]]
 name = "Vie Ensemble"
 url = "/vie-ensemble/"
 weight = 4
+identifier = "olive"
 [[menu.main]]
-identifier = "about"
 name = "Projets de substitution"
 pre = "<i class='fa fa-heart'></i>"
 url = "/projets-de-substitution/"
 weight = 3
+identifier = "green"
 [params]
 author = "AIO intern"
 avatar = "/AIO-logo.png"

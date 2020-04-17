@@ -16,12 +16,12 @@
         </h1> -->
       </section>
       {{ if .Site.Menus.main }}
-      <section class="ui attached center aligned segment dream-tags">
+      <section class="ui attached center aligned segment">
         <!-- <h3>Menu</h3> -->
         <!-- <span class="ui">Menu</span> -->
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          <a  class="ui label" 
+          <a  class="ui label {{ .Identifier }}" 
               href="{{ .URL }}" 
               title="{{ .Name }}"
               style="width: 150px;">{{ .Name }}</a>
