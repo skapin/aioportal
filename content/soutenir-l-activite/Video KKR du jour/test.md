@@ -6,7 +6,7 @@ date = ""
 lastmod = ""
 pdf_link = ""
 tags = []
-title = "Et AIO tu me montres un Karakuri Kaizen et pourquoi c'est faire?"
+title = "Hey AIO, tu me montres un Karakuri Kaizen et pourquoi c'est faire?"
 youtube_video_id = ""
 
 +++
