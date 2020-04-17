@@ -4,29 +4,29 @@ theme = "dream"
 title = "AIO"
 [[menu.main]]
 name = "CSE"
-url = "/cse"
+url = "/cse/"
 weight = 6
 [[menu.main]]
 name = "Rester à flot"
-url = "/rester-a-flot"
+url = "/rester-a-flot/"
 weight = 5
 [[menu.main]]
 name = "Sécurité & Conditions sanitaires"
-url = "/conditions-sanitaires"
+url = "/conditions-sanitaires/"
 weight = 1
 [[menu.main]]
 name = "Soutenir l'activité"
-url = "/soutenir-l-activite"
+url = "/soutenir-l-activite/"
 weight = 2
 [[menu.main]]
 name = "Vie Ensemble"
-url = "/vie-ensemble"
+url = "/vie-ensemble/"
 weight = 4
 [[menu.main]]
 identifier = "about"
 name = "Projets de substitution"
 pre = "<i class='fa fa-heart'></i>"
-url = "/projets-de-substitution"
+url = "/projets-de-substitution/"
 weight = 3
 [params]
 author = "AIO intern"
