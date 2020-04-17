@@ -7,6 +7,6 @@ lastmod = ""
 pdf_link = ""
 tags = []
 title = "Distributeur de gel hydroalcoolique à pédal"
-youtube_video_id = "dIs_Nk3VHKk "
+youtube_video_id = "dIs_Nk3VHKk"
 
 +++
