@@ -1,7 +1,7 @@
 +++
 author = "CDAN"
 categories = "Conditions Sanitaires"
-cover = "/postcover/cover2.png"
+cover = "/masque-protection-1024x577.jpg"
 date = 2020-04-17T22:00:00Z
 lastmod = ""
 pdf_link = ""
