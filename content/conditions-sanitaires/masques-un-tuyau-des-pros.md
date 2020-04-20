@@ -7,7 +7,6 @@ lastmod = ""
 pdf_link = ""
 tags = []
 title = "Masques, un tuyau des pros"
-youtube_video_id = ""
+youtube_video_id = "o-_DPOiBA1o"
 
 +++
-[https://www.facebook.com/140652982640095/posts/3152315051473858/?vh=e](https://www.facebook.com/140652982640095/posts/3152315051473858/?vh=e "Les professionnels nous montrent comment faire")
