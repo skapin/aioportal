@@ -1,11 +1,12 @@
 +++
 author = "CDAN"
+type = "post"
 categories = "Conditions Sanitaires"
 cover = "/MjAyMDA0YmRiOTExYzFkNDQzM2FhZmRmYjc2M2FmNjUxOGYwZDQ.jpeg"
 date = 2020-04-15T22:00:00Z
 lastmod = ""
 pdf_link = ""
-tags = []
+tags = ["super"]
 title = "test de post sous dossier"
 youtube_video_id = ""
 
