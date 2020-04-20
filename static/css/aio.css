@@ -10,3 +10,105 @@
   padding-left: 10%;
   padding-right: 10%;
 }
+
+
+.securite-conditions-sanitaires,
+.soutenir-activite,
+.projets-substitution,
+.vie-ensemble,
+.rester-flot,
+.cse,
+.test1,
+.test2,
+.test3,
+.test4,
+.test5,
+.test6,
+.test7,
+.test8,
+.test9,
+.test10,
+.test11,
+.test12
+ {
+  color: white !important;
+}
+
+/* cat + sous cat */
+.securite-conditions-sanitaires {
+  background-color: #0E6EB8 !important;
+}
+.test1,
+.test2 {
+  background-color: rgb(101, 152, 190) !important;
+}
+
+.soutenir-activite {
+  background-color: teal !important;
+}
+.test3,
+.test4 {
+  background-color: rgb(115, 180, 180) !important;
+}
+
+.projets-substitution {
+  background-color: green !important;
+}
+.test5,
+.test6 {
+  background-color: rgb(130, 196, 130) !important;
+}
+
+.vie-ensemble {
+  background-color: olive !important;
+}
+.test7,
+.test8 {
+  background-color: rgb(207, 207, 118) !important;
+}
+
+
+.rester-flot {
+  background-color: rgb(167, 132, 57) !important;
+}
+.test9,
+.test10 {
+  background-color: rgb(216, 190, 135)  !important;
+}
+
+
+.cse {
+  background-color: orange !important;
+}
+.test11,
+.test12 {
+  background-color: rgb(247, 210, 141)  !important;
+}
+
+.list-horizontal {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.list-vertical {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+.space-label {
+  margin: 2px 4px !important;
+}
+
+.toggle-submenu {
+  display: none;
+}
+
+.toggle-activator:hover * {
+  display: inherit;
+}

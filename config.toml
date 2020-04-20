@@ -2,37 +2,140 @@ baseURL = "http://intranet.aiotools.ovh"
 languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
+
 [[menu.main]]
 name = "CSE"
 url = "/cse/"
 weight = 6
-identifier = "orange"
+identifier = "cse"
+
+[[menu.main]]
+name = "test11"
+url = "/cse/test11/"
+weight = 7
+identifier = "test11"
+parent = "cse"
+
+[[menu.main]]
+name = "test12"
+url = "/cse/test12/"
+weight = 7
+identifier = "test12"
+parent = "cse"
+
+
+
 [[menu.main]]
 name = "Rester à flot"
 url = "/rester-a-flot/"
 weight = 5
-identifier = "yellow"
+identifier = "rester-flot"
+
+[[menu.main]]
+name = "test9"
+url = "/rester-a-flot/test9/"
+weight = 7
+identifier = "test9"
+parent = "rester-flot"
+
+[[menu.main]]
+name = "test10"
+url = "/rester-a-flot/test10/"
+weight = 7
+identifier = "test10"
+parent = "rester-flot"
+
+
+
 [[menu.main]]
 name = "Sécurité & Conditions sanitaires"
 url = "/conditions-sanitaires/"
 weight = 1
-identifier = "blue"
+identifier = "securite-conditions-sanitaires"
+
+[[menu.main]]
+name = "test1"
+url = "/conditions-sanitaires/test1/"
+weight = 7
+identifier = "test1"
+parent = "securite-conditions-sanitaires"
+
+[[menu.main]]
+name = "test2"
+url = "/conditions-sanitaires/test2/"
+weight = 7
+identifier = "test2"
+parent = "securite-conditions-sanitaires"
+
+
+
 [[menu.main]]
 name = "Soutenir l'activité"
 url = "/soutenir-l-activite/"
 weight = 2
-identifier = "teal"
+identifier = "soutenir-activite"
+
+[[menu.main]]
+name = "test3"
+url = "/soutenir-l-activite/test3/"
+weight = 7
+identifier = "test3"
+parent = "soutenir-activite"
+
+[[menu.main]]
+name = "test4"
+url = "/soutenir-l-activite/test4/"
+weight = 7
+identifier = "test4"
+parent = "soutenir-activite"
+
+
+
 [[menu.main]]
 name = "Vie Ensemble"
 url = "/vie-ensemble/"
 weight = 4
-identifier = "olive"
+identifier = "vie-ensemble"
+
+[[menu.main]]
+name = "test7"
+url = "/vie-ensemble/test7/"
+weight = 7
+identifier = "test7"
+parent = "vie-ensemble"
+
+[[menu.main]]
+name = "test8"
+url = "/vie-ensemble/test8/"
+weight = 7
+identifier = "test8"
+parent = "vie-ensemble"
+
+
+
 [[menu.main]]
 name = "Projets de substitution"
 pre = "<i class='fa fa-heart'></i>"
 url = "/projets-de-substitution/"
 weight = 3
-identifier = "green"
+identifier = "projets-substitution"
+
+[[menu.main]]
+name = "test5"
+url = "/projets-de-substitution/test5/"
+weight = 7
+identifier = "test5"
+parent = "projets-substitution"
+
+[[menu.main]]
+name = "test6"
+url = "/projets-de-substitution/test6/"
+weight = 7
+identifier = "test6"
+parent = "projets-substitution"
+
+
+
 [params]
 author = "AIO intern"
 avatar = "/AIO-logo.png"

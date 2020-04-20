@@ -20,12 +20,43 @@
         <!-- <h3>Menu</h3> -->
         <!-- <span class="ui">Menu</span> -->
         {{ $currentPage := . }}
+        
+
+        <ul class="list-horizontal">
         {{ range .Site.Menus.main }}
-          <a  class="ui label {{ .Identifier }}" 
+            {{ if .HasChildren }}
+
+            <li>
+         
+              <ul class="list-vertical toggle-activator">
+                <li >
+              <a  class="ui label dropdown-menu {{ .Identifier }} space-label" 
               href="{{ .URL }}" 
               title="{{ .Name }}"
               style="width: 150px;">{{ .Name }}</a>
+            </li>
+
+              {{ range .Children }}
+              <li class="toggle-submenu">
+              <a  class="ui label {{ .Identifier }} space-label" 
+              href="{{ .URL }}" 
+              title="{{ .Name }}"
+              style="width: 150px;">{{ .Name }}</a>
+            </li>
+              {{ end }}
+            </ul>
+            </li>
+            {{ else }}
+            <li>
+              <a  class="ui label {{ .Identifier }} space-label" 
+              href="{{ .URL }}" 
+              title="{{ .Name }}"
+              style="width: 150px;">{{ .Name }}</a>
+            {{ end }}
+          </li>
         {{ end }}
+      </ul>
+        
         <div style="width: 200px;"></div>
 <!--         <div class="ui horizontal list">
           {{ if gt (len (where .Site.RegularPages "Section" "==" "posts")) 0 }}
