@@ -2,7 +2,7 @@
 author = "CDAN"
 categories = "Conditions Sanitaires"
 cover = "/IMG_5710.jpg"
-date = 2020-04-17T22:00:00Z
+date = 2020-04-19T22:00:00Z
 lastmod = ""
 pdf_link = ""
 tags = []
