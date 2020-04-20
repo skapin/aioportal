@@ -1,12 +1,12 @@
 +++
 author = "CDAN"
 categories = "Conditions Sanitaires"
-cover = "/MjAyMDA0YmRiOTExYzFkNDQzM2FhZmRmYjc2M2FmNjUxOGYwZDQ.jpeg"
+cover = "/WhatsApp Image 2020-04-17 at 13.01.20.jpeg"
 date = 2020-04-15T22:00:00Z
 lastmod = ""
 pdf_link = ""
 tags = []
-title = "Arrivée de 5000 masques"
+title = "IMMINENT - Arrivée de 5 000 masques"
 youtube_video_id = ""
 
 +++
