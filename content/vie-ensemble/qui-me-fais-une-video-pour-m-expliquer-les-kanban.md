@@ -3,6 +3,7 @@ author = ""
 categories = "Projets de substitution"
 cover = "/Toyota-Kanban-Cropped.jpg"
 date = 2020-04-15T22:00:00Z
+draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
