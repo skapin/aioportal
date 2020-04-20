@@ -1,4 +1,5 @@
 baseURL = "http://intranet.aiotools.ovh"
+paginate = 50
 languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
@@ -34,7 +35,7 @@ avatar = "/AIO-logo.png"
 backgroundImage = "/background.jpg"
 dark404Button = true
 darkLinkColor = "darkseagreen"
-darkNav = true
+darkNav = false
 email = "florian.boudinet@aio.eu"
 linkColor = "mediumaquamarine"
 motto = "AIO"
