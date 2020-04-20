@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = "CSE"
-cover = "/postcover/cover7.jpg"
+cover = "/uploads/cover5.png"
 date = ""
 lastmod = 2020-04-19T22:00:00Z
 pdf_link = "/PV CSE 14 avril 2020.pdf"
