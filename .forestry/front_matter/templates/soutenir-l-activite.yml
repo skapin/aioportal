@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: datetime
-  name: lastmod
-  label: lastmod
 - type: text
   name: author
   label: author
@@ -44,5 +41,7 @@ fields:
   label: pdf
   description: Charger un PDF
 pages:
-- content/soutenir-l-activite/Video KKR du jour/test.md
+- content/soutenir-l-activite/KK® du jour /kk®-005-over-the-top-evacuation.md
+- content/soutenir-l-activite/contrat-de-location-agv-désinfection.md
 - content/soutenir-l-activite/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires.md
+- content/soutenir-l-activite/relayez-nos-innovations-sur-vos-réseaux-sociaux-peut-nous-permettre-de-faire-des-ventes.md
