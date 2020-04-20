@@ -10,3 +10,4 @@ title = "Masques, un tuyau des pros"
 youtube_video_id = "o-_DPOiBA1o"
 
 +++
+Cliquez et regarder la vidéo ... bon standard à apprendre
