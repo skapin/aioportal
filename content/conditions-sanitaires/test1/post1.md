@@ -1,14 +1,14 @@
 +++
-author = "CDAN"
-type = "post"
-categories = "Conditions Sanitaires"
+author = "ALEX"
+type = "new"
+categories = "test1"
 cover = "/MjAyMDA0YmRiOTExYzFkNDQzM2FhZmRmYjc2M2FmNjUxOGYwZDQ.jpeg"
 date = 2020-04-15T22:00:00Z
 lastmod = ""
 pdf_link = ""
 tags = ["super"]
-title = "test de post sous dossier"
+title = "TEST de post SOUS CATEGORIE"
 youtube_video_id = ""
 
 +++
-Départ des masques depuis un entrepôt d'Aubervilliers aujourd'hui 16 avril ou au plus tard demain matin via Chronopost... Nous espérons les recevoir lundi ou mardi suivant les difficultés de Chronopost à nous livrer
+TEST ALEX POST SOUS CATEGORIE VISIBLE CHEZ LE PARENT EGALEMENT
