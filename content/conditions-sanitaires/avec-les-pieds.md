@@ -1,7 +1,7 @@
 +++
 author = "OCOU"
 categories = "Conditions Sanitaires"
-cover = "/IMG_5637.HEIC"
+cover = "/IMG_5637.jpg"
 date = ""
 lastmod = ""
 pdf_link = ""
