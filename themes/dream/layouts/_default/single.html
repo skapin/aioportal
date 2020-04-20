@@ -26,7 +26,10 @@
       <article style="margin-top: 2rem;">{{ .Content | emojify }}</article>
       {{ if isset .Params "pdf_link" | and  (ne .Params.pdf_link "") }}
         <div style="text-align: center;margin:2%;">
-          <embed src= "{{.Params.pdf_link}}" width= "90%" height="900px">
+          <a href="{{.Params.pdf_link}}">Télécharger le PDF</a>
+        </div>
+        <div style="text-align: center;margin:2%;">
+          <object data="{{.Params.pdf_link}}" type="application/pdf" width= "90%" height="900px">
         </div>
       {{ end }}
     </section>
