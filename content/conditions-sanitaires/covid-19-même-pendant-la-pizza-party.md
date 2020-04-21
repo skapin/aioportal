@@ -3,7 +3,6 @@ author = "BGER"
 categories = "Conditions Sanitaires"
 cover = "/images.jpeg"
 date = ""
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
