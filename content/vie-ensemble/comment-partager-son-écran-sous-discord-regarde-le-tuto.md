@@ -18,6 +18,8 @@ Suivez ces quelques étapes :
 
 ![](/Capture dcran 2020-04-20 à 21.47.29.jpg)
 
+![](/Capture dcran 2020-04-20 21.47.29.jpg)
+
 ![](/Téléphone.jpg)
 
 ![](/Capture d’écran 2020-04-20 à 21.47.29-1.jpg)
