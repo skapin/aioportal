@@ -16,11 +16,7 @@ Suivez ces quelques étapes :
 
 1/ Rejoignez un salon vocal (Ici je veux diffuser mon écran au salon vocal "cours théoriques" dans "Bureau d'études")
 
-![](/Capturedcran2020-04-20.jpg)
-
-![](/Capture dcran 2020-04-20.jpg)
-
-![](/Capture d’écran 2020-04-20 à 21.47.29-1.jpg)
+![](/Càéèpturedcran2020-04-20.jpg)
 
 2/ Cliquez sur "Passer en direct" en bas a droite
 
