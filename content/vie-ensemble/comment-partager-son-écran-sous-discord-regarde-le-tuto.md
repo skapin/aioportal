@@ -18,7 +18,7 @@ Suivez ces quelques étapes :
 
 ![](/Capture d’écran 2020-04-20 à 21.47.29-1.jpg)
 
-2/ Cliquez sur "Passer en direct" en bas a droite  
+2/ Cliquez sur "Passer en direct" en bas a droite
 
 ![](/Capture d’écran 2020-04-20 à 21.47.38.jpg)
 
