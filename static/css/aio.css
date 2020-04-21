@@ -11,80 +11,117 @@
   padding-right: 10%;
 }
 
-
+/* Category: Parent and children - START */
 .securite-conditions-sanitaires,
 .soutenir-activite,
 .projets-substitution,
 .vie-ensemble,
 .rester-flot,
 .cse,
-.test1,
-.test2,
-.test3,
-.test4,
-.test5,
-.test6,
-.test7,
-.test8,
-.test9,
-.test10,
-.test11,
-.test12
+.securite-conditions-sanitaires-sub,
+.soutenir-activite-sub,
+.projets-substitution-sub,
+.vie-ensemble-sub,
+.rester-flot-sub,
+.cse-sub
  {
   color: white !important;
 }
 
-/* cat + sous cat */
+/* ------ */
+
 .securite-conditions-sanitaires {
   background-color: #0E6EB8 !important;
 }
-.test1,
-.test2 {
+.securite-conditions-sanitaires-sub {
   background-color: rgb(101, 152, 190) !important;
 }
+.securite-conditions-sanitaires:hover {
+  background-color: rgb(10, 67, 110) !important;
+}
+.securite-conditions-sanitaires-sub:hover {
+  background-color: #0E6EB8 !important;
+}
+
+/* ------ */
 
 .soutenir-activite {
   background-color: teal !important;
 }
-.test3,
-.test4 {
+.soutenir-activite:hover {
+  background-color: rgb(0, 94, 94) !important;
+}
+.soutenir-activite-sub {
   background-color: rgb(115, 180, 180) !important;
 }
+.soutenir-activite-sub:hover {
+  background-color: teal !important;
+}
+
+
+/* ------- */
 
 .projets-substitution {
   background-color: green !important;
 }
-.test5,
-.test6 {
+.projets-substitution-sub {
   background-color: rgb(130, 196, 130) !important;
 }
+.projets-substitution:hover {
+  background-color: rgb(0, 78, 0) !important;
+}
+.projets-substitution-sub:hover {
+  background-color: green !important;
+}
+
+/* ------- */
 
 .vie-ensemble {
   background-color: olive !important;
 }
-.test7,
-.test8 {
+.vie-ensemble-sub {
   background-color: rgb(207, 207, 118) !important;
 }
+.vie-ensemble:hover {
+  background-color: rgb(77, 77, 0) !important;
+}
+.vie-ensemble-sub:hover {
+  background-color: olive !important;
+}
 
+/* ------- */
 
 .rester-flot {
   background-color: rgb(167, 132, 57) !important;
 }
-.test9,
-.test10 {
+.rester-flot-sub {
   background-color: rgb(216, 190, 135)  !important;
 }
+.rester-flot:hover {
+  background-color: rgb(102, 80, 32) !important;
+}
+.rester-flot-sub:hover {
+  background-color: rgb(167, 132, 57)  !important;
+}
 
+/* ------- */
 
 .cse {
   background-color: orange !important;
 }
-.test11,
-.test12 {
+.cse-sub {
   background-color: rgb(247, 210, 141)  !important;
 }
+.cse:hover {
+  background-color: rgb(158, 103, 1) !important;
+}
+.cse-sub:hover {
+  background-color: orange  !important;
+}
+/* Category: Parent and children - END */
 
+
+/* Nested Menu display - START */
 .list-horizontal {
   margin: 0;
   padding: 0;
@@ -112,3 +149,4 @@
 .toggle-activator:hover * {
   display: inherit;
 }
+/* Nested Menu display - END */

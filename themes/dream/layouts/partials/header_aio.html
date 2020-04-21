@@ -24,36 +24,41 @@
 
         <ul class="list-horizontal">
         {{ range .Site.Menus.main }}
+        
             {{ if .HasChildren }}
-
             <li>
-         
-              <ul class="list-vertical toggle-activator">
-                <li >
-              <a  class="ui label dropdown-menu {{ .Identifier }} space-label" 
-              href="{{ .URL }}" 
-              title="{{ .Name }}"
-              style="width: 150px;">{{ .Name }}</a>
-            </li>
-
-              {{ range .Children }}
-              <li class="toggle-submenu">
-              <a  class="ui label {{ .Identifier }} space-label" 
-              href="{{ .URL }}" 
-              title="{{ .Name }}"
-              style="width: 150px;">{{ .Name }}</a>
-            </li>
-              {{ end }}
-            </ul>
+                <ul class="list-vertical toggle-activator">
+                    <li >
+                        <a  class="ui label dropdown-menu {{ .Identifier }} space-label" 
+                            href="{{ .URL }}" 
+                            title="{{ .Name }}"
+                            style="width: 150px;">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ range .Children }}
+                        <li class="toggle-submenu">
+                            <a  class="ui label {{ .Parent }}-sub space-label" 
+                                href="{{ .URL }}" 
+                                title="{{ .Name }}"
+                                style="width: 150px;">
+                                {{ .Name }}
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
             </li>
             {{ else }}
             <li>
               <a  class="ui label {{ .Identifier }} space-label" 
-              href="{{ .URL }}" 
-              title="{{ .Name }}"
-              style="width: 150px;">{{ .Name }}</a>
+                  href="{{ .URL }}" 
+                  title="{{ .Name }}"
+                  style="width: 150px;">
+                  {{ .Name }}
+              </a>
+            </li>
             {{ end }}
-          </li>
+          
         {{ end }}
       </ul>
         
