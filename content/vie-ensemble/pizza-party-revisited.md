@@ -3,7 +3,6 @@ author = "BGER"
 categories = "Projets de substitution"
 cover = "/pizza-party-jxl-prints.jpg"
 date = 2020-04-20T22:00:00Z
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
