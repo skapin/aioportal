@@ -44,10 +44,10 @@ fields:
   label: pdf
   description: Charger un PDF
 pages:
-- content/projets-de-substitution/l-agv-suiveur-à-la-norme-ce.md
-- content/projets-de-substitution/test-pdf.md
-- content/vie-ensemble/200-jours-sans-at.md
-- content/vie-ensemble/comment-partager-son-écran-sous-discord-regarde-le-tuto.md
-- content/vie-ensemble/pizza-party-revisited.md
-- content/vie-ensemble/qui-me-fais-une-video-pour-m-expliquer-les-kanban.md
-- content/vie-ensemble/test.md
+- content/developpement-de-nouveaux-produits/l-agv-suiveur-à-la-norme-ce.md
+- content/developpement-de-nouveaux-produits/test-pdf.md
+- content/vivre-ensemble/200-jours-sans-at.md
+- content/vivre-ensemble/comment-partager-son-écran-sous-discord-regarde-le-tuto.md
+- content/vivre-ensemble/pizza-party-revisited.md
+- content/vivre-ensemble/qui-me-fais-une-video-pour-m-expliquer-les-kanban.md
+- content/vivre-ensemble/test.md
