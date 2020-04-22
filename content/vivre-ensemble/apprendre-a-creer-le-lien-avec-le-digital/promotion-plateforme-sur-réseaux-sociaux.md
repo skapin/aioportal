@@ -41,7 +41,7 @@ Prenez soin de vous, avec astuce.
 
 Exemple avec emojis :
 
-![](/Exemple poste FR.png)
+![](/Exemple poste FR.png "Exemple")
 
 ***
 
@@ -59,7 +59,7 @@ Stay safe, stay smart.
 
 Exemple avec emojis :
 
-![](/Exemple poste EN.png)
+![](/Exemple poste EN.png "Exemple")
 
 ***
 
