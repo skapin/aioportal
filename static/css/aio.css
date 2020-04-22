@@ -148,6 +148,12 @@
   margin: 2px 4px !important;
 }
 
+.sub-all-posts {
+  background-color: inherit !important;
+  border: solid 1px #333 !important;
+  color: #333 !important;
+}
+
 ul.list-sub {
   display: none;
 }
