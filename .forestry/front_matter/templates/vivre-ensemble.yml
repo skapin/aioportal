@@ -43,3 +43,5 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
+pages:
+- content/vivre-ensemble/feter-nos-succes/test.md
