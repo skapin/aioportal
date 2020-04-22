@@ -56,7 +56,9 @@ Stay safe, stay smart.
 
 ***
 
-Exemple avec emojis :![](/Screenshot 2020-04-22 at 18.36.46.png)
+Exemple avec emojis :
+
+![](/Screenshot 2020-04-22 at 18.36.46.png)
 
 ***
 
