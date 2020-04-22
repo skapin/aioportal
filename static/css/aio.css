@@ -154,6 +154,10 @@
   color: #333 !important;
 }
 
+.sub-all-posts:hover {
+  color: white !important;
+}
+
 ul.list-sub {
   display: none;
 }
