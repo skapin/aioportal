@@ -89,4 +89,4 @@ Images :
 
 Exemple de poste :
 
-![](/Screenshot 2020-04-22 at 19.07.31.png)
+[https://www.linkedin.com/posts/aio-karakuri_aio-activity-6658773126979035137-_qbm](https://www.linkedin.com/posts/aio-karakuri_aio-activity-6658773126979035137-_qbm "https://www.linkedin.com/posts/aio-karakuri_aio-activity-6658773126979035137-_qbm")
