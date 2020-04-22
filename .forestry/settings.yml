@@ -33,19 +33,19 @@ sections:
   templates:
   - conditions-sanitaires
 - type: directory
-  path: content/vie-ensemble
-  label: Vie Ensemble
+  path: content/vivre-ensemble
+  label: Vivre Ensemble
   create: all
   match: "**/*"
   templates:
-  - projet-substitution
+  - vivre-ensemble
 - type: directory
-  path: content/projets-de-substitution
-  label: Projets de substitution
+  path: content/developpement-de-nouveaux-produits
+  label: Développement de nouveaux produits
   create: all
   match: "**/*"
   templates:
-  - projet-substitution
+  - developpement-de-nouveaux-produits
 - type: directory
   path: content/about
   label: About

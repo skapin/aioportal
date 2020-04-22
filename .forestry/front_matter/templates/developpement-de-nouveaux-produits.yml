@@ -1,0 +1,53 @@
+---
+label: Projet Substitution
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+  hidden: true
+  default: Projets de substitution
+- type: list
+  name: tags
+  label: tags
+- name: cover
+  type: file
+  config:
+    maxSize: 250
+  label: cover
+  description: Image de couverture du post
+  default: "/postcover/cover1.png"
+- name: youtube_video_id
+  type: text
+  config:
+    required: false
+    min: 
+    max: 16
+  label: Youtube Video ID
+  description: ID de la video youtube <br>partie après le v=<br>/<em>watch?v=</em>MLVaRtWmVdM<br>
+- name: pdf_link
+  type: file
+  config:
+    maxSize: 250
+  label: pdf
+  description: Charger un PDF
+pages:
+- content/developpement-de-nouveaux-produits/l-agv-suiveur-à-la-norme-ce.md
+- content/developpement-de-nouveaux-produits/test-pdf.md
+- content/vivre-ensemble/200-jours-sans-at.md
+- content/vivre-ensemble/comment-partager-son-écran-sous-discord-regarde-le-tuto.md
+- content/vivre-ensemble/pizza-party-revisited.md
+- content/vivre-ensemble/qui-me-fais-une-video-pour-m-expliquer-les-kanban.md
+- content/vivre-ensemble/test.md

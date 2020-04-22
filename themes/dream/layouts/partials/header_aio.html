@@ -16,16 +16,97 @@
         </h1> -->
       </section>
       {{ if .Site.Menus.main }}
-      <section class="ui attached center aligned segment dream-tags">
+      <script>
+                          
+        function removeClass(e, c) {
+          elm = document.querySelectorAll(mClass);
+          for (var i = 0; i < elm.length; i++) {
+            if (c == 'active') {
+              elm[i].classList.remove('active');
+            } else {
+              if (!elm[i].classList.contains('active')) elm[i].querySelector('.list-sub').classList.remove('show');
+            }
+          }
+        }
+        
+        var mClass = '.sub-toggle'
+        var menu = document.querySelectorAll(mClass);
+        menu.forEach(function(o) {
+          o.addEventListener('click', function(e) {
+            // e.preventDefault();
+            removeClass(o, 'active');
+            this.classList.add('active');
+            removeClass(o);
+            this.querySelector('.list-sub').classList.toggle('show');
+          });
+        });
+        </script>
+      <section class="ui attached center aligned segment">
         <!-- <h3>Menu</h3> -->
         <!-- <span class="ui">Menu</span> -->
         {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <a  class="ui label" 
-              href="{{ .URL }}" 
+        
+
+        <ul class="list-horizontal">
+        {{ range $index, $element := .Site.Menus.main }}
+        
+            {{ if .HasChildren }}
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-{{ $index }} space-label cat-fixed-height"
+              id={{$index}}
               title="{{ .Name }}"
-              style="width: 150px;">{{ .Name }}</a>
+              style="width: 150px;">
+             <span>{{ .Name }}</span>
+            </a>
+              <ul 
+              id={{$index}}
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-{{ $index }}-sub space-label sub-all-posts" 
+                    href="{{ .URL }}" 
+                    title="{{ .Name }}"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    {{ range .Children }}
+                        <li >
+                            <a  class="ui label cat-{{ $index }}-sub space-label" 
+                                href="{{ .URL }}" 
+                                title="{{ .Name }}"
+                                style="width: 150px;">
+                                {{ .Name }}
+                            </a>
+                        </li>
+                    {{ end }}
+              </ul>
+            </li>
+
+
+           
+          
+            {{ else }}
+            <li>
+              <a  class="ui label cat-{{ $index }} space-label cat-fixed-height" 
+                  href="{{ .URL }}" 
+                  title="{{ .Name }}"
+                  style="width: 150px;">
+                  {{ .Name }}
+              </a>
+            </li>
+            {{ end }}
+          
         {{ end }}
+      </ul>
+
+
+    
+
+
+
+
+        
         <div style="width: 200px;"></div>
 <!--         <div class="ui horizontal list">
           {{ if gt (len (where .Site.RegularPages "Section" "==" "posts")) 0 }}
@@ -49,4 +130,6 @@
     </article>
   </div>
 </div>
+
+
 

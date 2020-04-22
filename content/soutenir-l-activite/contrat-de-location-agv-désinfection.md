@@ -1,7 +1,7 @@
 +++
 author = "EJOB"
 categories = "Soutenir L'activité"
-cover = "/signature contrat.jpg"
+cover = "/KKR 030 thumbnail-1.png"
 date = 2020-04-19T22:00:00Z
 draft = true
 pdf_link = ""

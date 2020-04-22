@@ -1,7 +1,7 @@
 +++
 author = "EJOB"
 categories = "Soutenir L'activité"
-cover = "/9562DC71-E4C1-4C6D-BBD6-5863DB39CCE0_1_105_c.jpeg"
+cover = "/Cloture.png"
 date = 2020-04-15T22:00:00Z
 draft = true
 lastmod = ""

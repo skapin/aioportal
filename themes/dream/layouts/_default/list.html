@@ -8,7 +8,12 @@
   {{ i18n "category" }} | {{ .Data.Term }}
 {{ end }}
 
+{{ if eq .Data.Singular "post" }}
+  {{ i18n "post" }} | {{ .Data.Term }}
 {{ end }}
+
+{{ end }}
+
 
 {{ define "main"}}
 <div class="ui centered relaxed grid dream-grid">
@@ -16,12 +21,29 @@
     {{ partial "header.html" . }}
   </div> -->
 
-  {{ $paginator := .Paginate .Pages }}
+  <!-- {{ $paginator := .Paginate .Pages }}
   {{ range $paginator.Pages }}
     <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
       {{ .Render "summary" }}
     </div>
+  {{ end }} -->
+
+
+<!-- PERMET D'AFFICHER EGALEMENT LES ARTICLES DES SOUS CATEGORIES DANS LA VUE DE LA CAT. PARENTE  -->
+  {{ $pages := slice }}
+  {{ $currentSection := .CurrentSection }}
+  
+  {{ range where .Site.RegularPages "Section" .Section }}
+    {{ if in (.Permalink | string) $currentSection.RelPermalink }}
+      {{ $pages = $pages | append . }}
+      <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+        {{ .Render "summary" }}
+      </div>
+    {{ end }}
   {{ end }}
+  <!-- ----------------------------------------------------------------------------------------- -->
+
+
 </div>
 
 {{ partial "paginator.html" (dict "paginator" $paginator "Site" .Site) }}
