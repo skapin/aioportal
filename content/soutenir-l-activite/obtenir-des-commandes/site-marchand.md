@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Florian"
 categories = "Soutenir L'activité"
 cover = "/public.png"
 date = 2020-04-21T22:00:00Z
