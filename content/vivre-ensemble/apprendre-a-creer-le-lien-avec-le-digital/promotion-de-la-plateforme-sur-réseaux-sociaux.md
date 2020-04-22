@@ -12,44 +12,53 @@ youtube_video_id = ""
 +++
 Bonsoir AIO team,
 
-Voici un poste pour les réseaux sociaux qui promeut notre nouvelle plateforme, qui nous aidera à répandre notre activité et à aider les autres 😊
+Voici un poste pour les réseaux sociaux qui promeut notre nouvelle plateforme, qui nous aidera à répandre notre activité et à aider les autres :)
 
 Disponible en français et en anglais, je vous laisse copier/coller le poste, l’adapter si besoin aux spécificités de votre réseau, et l’accompagner de lien(s), de vidéo(s) ou d’image(s) (disponibles en-dessous). N’hésitez pas à taguer vos connaissances, on ne sait jamais, ça peut leur intéresser !
 
 Je publie sur l’intranet d’ici la fin de semaine un tuto sur la création de compte LinkedIn, ainsi que l’adaptation de ce dernier à notre standard d'équipe pour ceux qui en ont besoin.
 
-Si besoin d’aide ou de conseils, n’hésitez pas à me contacter (mail, téléphone, WhatsApp, Discord… je suis partout 👍)
+Si besoin d’aide ou de conseils, n’hésitez pas à me contacter (mail, téléphone, WhatsApp, Discord… je suis partout)
 
-Stay safe, Stay smart, Team AIO 💙
+Stay safe, Stay smart, Team AIO
 
-________________________  
+PS (Petit hic, je n'arrive pas à publier des emojis depuis ce site, je vous fait une capture d'écran pour vous montrer lesquels pourraient fonctionner !)
+
+***
+
 Version FR :
 
-\[AIO partage ses solutions COVID-19\] Afin de continuer notre soutien de votre activité, visitez notre plateforme et découvrez nos solutions COVID-19, créées pour vous. 🏭
-
-👇👇
+\[AIO partage ses solutions COVID-19\] Afin de continuer notre soutien de votre activité, visitez notre plateforme et découvrez nos solutions COVID-19, créées pour vous. 
 
 LIEN
 
-Prenez soin de vous, avec astuce. 💙
+Prenez soin de vous, avec astuce.
 
 \#staysafestaysmart #karakuri #covid19
 
-________________________
+***
+
+Exemple avec emojis :
+
+![](/Screenshot 2020-04-22 at 18.34.31.png)
+
+***
 
 Version EN :
 
-\[Sharing COVID-19 solutions\] To continue our full support of your activity, visit our online platform and discover our COVID-19 inventions created for you. 🏭
-
-👇👇
+\[Sharing COVID-19 solutions\] To continue our full support of your activity, visit our online platform and discover our COVID-19 inventions created for you.
 
 LIEN
 
-Stay safe, stay smart. 💙
+Stay safe, stay smart.
 
 \#staysafestaysmart #karakuri #covid19
 
-________________________
+***
+
+Exemple avec emojis :![](/Screenshot 2020-04-22 at 18.36.46.png)
+
+***
 
 Liens :
 
@@ -61,7 +70,7 @@ Lien vers site marchant public :
 
 [http://public.aio-platform.eu/](http://public.aio-platform.eu/ "http://public.aio-platform.eu/")
 
-________________________
+***
 
 Vidéos YouTube :
 
@@ -73,7 +82,7 @@ AGV désinfectant :
 
 [https://www.youtube.com/watch?v=neOhEkeIqmo](https://www.youtube.com/watch?v=neOhEkeIqmo "https://www.youtube.com/watch?v=neOhEkeIqmo")
 
-________________________
+***
 
 Images :
 
