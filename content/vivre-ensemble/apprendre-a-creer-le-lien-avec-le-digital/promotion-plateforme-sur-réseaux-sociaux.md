@@ -18,7 +18,7 @@ Disponible en français et en anglais, je vous laisse copier/coller le poste, l�
 
 Je publie sur l’intranet d’ici la fin de semaine un tuto sur la création de compte LinkedIn, ainsi que l’adaptation de ce dernier à notre standard d'équipe pour ceux qui en ont besoin.
 
-Si besoin d’aide ou de conseils, n’hésitez pas à me contacter (mail, téléphone, WhatsApp, Discord… je suis partout)
+Si besoin d’aide ou de conseils, n’hésitez pas à me contacter (mail, téléphone, WhatsApp, Discord… je suis partout ;) )
 
 Stay safe, Stay smart, Team AIO
 
