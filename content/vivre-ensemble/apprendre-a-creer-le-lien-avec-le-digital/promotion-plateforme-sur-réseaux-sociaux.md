@@ -81,6 +81,8 @@ AGV désinfectant :
 
 Images :
 
+![](/Screenshot 2020-04-22 at 19.07.31.png)
+
 ![](/Platform.png)
 
 ![](/Covid-19-solutions-en.png)
