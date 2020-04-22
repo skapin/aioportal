@@ -23,8 +23,6 @@ Si besoin d’aide ou de conseils, n’hésitez pas à me contacter (mail, tél�
 
 Stay safe, Stay smart, Team AIO x
 
-PS (Petit hic, je n'arrive pas à publier des emojis depuis ce site, je vous fait une capture d'écran pour vous montrer lesquels pourraient fonctionner !)
-
 ***
 
 Version FR :
@@ -36,12 +34,6 @@ LIEN
 Prenez soin de vous, avec astuce.
 
 \#staysafestaysmart #karakuri #covid19
-
-***
-
-Exemple avec emojis :
-
-![](/Poste FR.png)
 
 ***
 
@@ -57,9 +49,9 @@ Stay safe, stay smart.
 
 ***
 
-Exemple avec emojis :
+PS (Petit hic, je n'arrive pas à publier d'emojis sur ce site, voici un exemple de notre LinkedIn)
 
-![](/Poste EN.png)
+![](/Screenshot 2020-04-22 at 19.07.31.png)
 
 ***
 
