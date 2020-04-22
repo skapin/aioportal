@@ -16,6 +16,31 @@
         </h1> -->
       </section>
       {{ if .Site.Menus.main }}
+      <script>
+                          
+        function removeClass(e, c) {
+          elm = document.querySelectorAll(mClass);
+          for (var i = 0; i < elm.length; i++) {
+            if (c == 'active') {
+              elm[i].classList.remove('active');
+            } else {
+              if (!elm[i].classList.contains('active')) elm[i].querySelector('.list-sub').classList.remove('show');
+            }
+          }
+        }
+        
+        var mClass = '.sub-toggle'
+        var menu = document.querySelectorAll(mClass);
+        menu.forEach(function(o) {
+          o.addEventListener('click', function(e) {
+            // e.preventDefault();
+            removeClass(o, 'active');
+            this.classList.add('active');
+            removeClass(o);
+            this.querySelector('.list-sub').classList.toggle('show');
+          });
+        });
+        </script>
       <section class="ui attached center aligned segment">
         <!-- <h3>Menu</h3> -->
         <!-- <span class="ui">Menu</span> -->
@@ -23,22 +48,31 @@
         
 
         <ul class="list-horizontal">
-        {{ range .Site.Menus.main }}
+        {{ range $index, $element := .Site.Menus.main }}
         
             {{ if .HasChildren }}
-            <li>
-                <ul class="list-vertical toggle-activator">
-                    <li >
-                        <a  class="ui label dropdown-menu {{ .Identifier }} space-label" 
-                            href="{{ .URL }}" 
-                            title="{{ .Name }}"
-                            style="width: 150px;">
-                            {{ .Name }}
-                        </a>
-                    </li>
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-{{ $index }} space-label cat-fixed-height"
+              id={{$index}}
+              title="{{ .Name }}"
+              style="width: 150px;">
+             <span>{{ .Name }}</span>
+            </a>
+              <ul 
+              id={{$index}}
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-{{ $index }}-sub space-label" 
+                    href="{{ .URL }}" 
+                    title="{{ .Name }}"
+                    style="width: 150px;color: rgb(14, 15, 37) !important;">
+                    Tous les articles
+                </a>
+              </li>
                     {{ range .Children }}
-                        <li class="toggle-submenu">
-                            <a  class="ui label {{ .Parent }}-sub space-label" 
+                        <li >
+                            <a  class="ui label cat-{{ $index }}-sub space-label" 
                                 href="{{ .URL }}" 
                                 title="{{ .Name }}"
                                 style="width: 150px;">
@@ -46,11 +80,15 @@
                             </a>
                         </li>
                     {{ end }}
-                </ul>
+              </ul>
             </li>
+
+
+           
+          
             {{ else }}
             <li>
-              <a  class="ui label {{ .Identifier }} space-label" 
+              <a  class="ui label cat-{{ $index }} space-label cat-fixed-height" 
                   href="{{ .URL }}" 
                   title="{{ .Name }}"
                   style="width: 150px;">
@@ -61,6 +99,13 @@
           
         {{ end }}
       </ul>
+
+
+    
+
+
+
+
         
         <div style="width: 200px;"></div>
 <!--         <div class="ui horizontal list">
@@ -85,4 +130,6 @@
     </article>
   </div>
 </div>
+
+
 

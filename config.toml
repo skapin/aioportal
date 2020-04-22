@@ -4,48 +4,6 @@ languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
 
-[[menu.main]]
-name = "CSE"
-url = "/cse/"
-weight = 6
-identifier = "cse"
-
-[[menu.main]]
-name = "test11"
-url = "/cse/test11/"
-weight = 1
-identifier = "test11"
-parent = "cse"
-
-[[menu.main]]
-name = "test12"
-url = "/cse/test12/"
-weight = 2
-identifier = "test12"
-parent = "cse"
-
-
-
-[[menu.main]]
-name = "Rester à flot"
-url = "/rester-a-flot/"
-weight = 5
-identifier = "rester-flot"
-
-[[menu.main]]
-name = "test9"
-url = "/rester-a-flot/test9/"
-weight = 1
-identifier = "test9"
-parent = "rester-flot"
-
-[[menu.main]]
-name = "test10"
-url = "/rester-a-flot/test10/"
-weight = 2
-identifier = "test10"
-parent = "rester-flot"
-
 
 
 [[menu.main]]
@@ -55,18 +13,35 @@ weight = 1
 identifier = "securite-conditions-sanitaires"
 
 [[menu.main]]
-name = "test1"
-url = "/conditions-sanitaires/test1/"
+name = "5S sanitaires"
+url = "/conditions-sanitaires/5s-sanitaires/"
 weight = 1
-identifier = "test1"
+identifier = "5S-sanitaires"
 parent = "securite-conditions-sanitaires"
 
 [[menu.main]]
-name = "test2"
-url = "/conditions-sanitaires/test2/"
+name = "Plan suspicion COVID-19"
+url = "/conditions-sanitaires/covid-19/"
 weight = 2
-identifier = "test2"
+identifier = "covid-19"
 parent = "securite-conditions-sanitaires"
+
+
+
+[[menu.main]]
+name = "CSE"
+url = "/cse/"
+weight = 6
+identifier = "cse"
+
+
+
+[[menu.main]]
+name = "Rester à flot"
+url = "/rester-a-flot/"
+weight = 5
+identifier = "rester-flot"
+
 
 
 
@@ -77,63 +52,85 @@ weight = 2
 identifier = "soutenir-activite"
 
 [[menu.main]]
-name = "test3"
-url = "/soutenir-l-activite/test3/"
+name = "Livrer les clients"
+url = "/soutenir-l-activite/livrer-les-clients/"
 weight = 1
-identifier = "test3"
+identifier = "livrer-les-clients"
 parent = "soutenir-activite"
 
 [[menu.main]]
-name = "test4"
-url = "/soutenir-l-activite/test4/"
+name = "Obtenir des commandes"
+url = "/soutenir-l-activite/obtenir-des-commandes/"
 weight = 2
-identifier = "test4"
+identifier = "obtenir-des-commandes"
 parent = "soutenir-activite"
 
-
-
 [[menu.main]]
-name = "Vie Ensemble"
-url = "/vie-ensemble/"
-weight = 4
-identifier = "vie-ensemble"
-
-[[menu.main]]
-name = "test7"
-url = "/vie-ensemble/test7/"
-weight = 1
-identifier = "test7"
-parent = "vie-ensemble"
-
-[[menu.main]]
-name = "test8"
-url = "/vie-ensemble/test8/"
-weight = 2
-identifier = "test8"
-parent = "vie-ensemble"
-
-
-
-[[menu.main]]
-name = "Projets de substitution"
-pre = "<i class='fa fa-heart'></i>"
-url = "/projets-de-substitution/"
+name = "Améliorer nos produits"
+url = "/soutenir-l-activite/ameliorer-nos-produits/"
 weight = 3
-identifier = "projets-substitution"
+identifier = "ameliorer-nos-produits"
+parent = "soutenir-activite"
+
+
 
 [[menu.main]]
-name = "test5"
-url = "/projets-de-substitution/test5/"
+name = "Vivre ensemble"
+url = "/vivre-ensemble/"
+weight = 4
+identifier = "vivre-ensemble"
+
+[[menu.main]]
+name = "Apprendre à créer le lien avec le digital"
+url = "/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/"
 weight = 1
-identifier = "test5"
-parent = "projets-substitution"
+identifier = "apprendre-a-creer-le-lien-avec-le-digital"
+parent = "vivre-ensemble"
 
 [[menu.main]]
-name = "test6"
-url = "/projets-de-substitution/test6/"
+name = "Fêter nos succès"
+url = "/vivre-ensemble/feter-nos-succes/"
 weight = 2
-identifier = "test6"
-parent = "projets-substitution"
+identifier = "feter-nos-succes"
+parent = "vivre-ensemble"
+
+
+
+[[menu.main]]
+name = "Développement de nouveaux produits"
+pre = "<i class='fa fa-heart'></i>"
+url = "/developpement-de-nouveaux-produits/"
+weight = 3
+identifier = "developpement-de-nouveaux-produits"
+
+[[menu.main]]
+name = "Des produits pour lutter contre le COVID"
+url = "/developpement-de-nouveaux-produits/lutte-contre-covid/"
+weight = 1
+identifier = "lutte-contre-covid"
+parent = "developpement-de-nouveaux-produits"
+
+[[menu.main]]
+name = "Améliorer la formation et le développement du KKR"
+url = "/developpement-de-nouveaux-produits/ameliorer-la-formation-et-le-developpement-du-KKR/"
+weight = 2
+identifier = "ameliorer-la-formation-et-le-developpement-du-KKR"
+parent = "developpement-de-nouveaux-produits"
+
+[[menu.main]]
+name = "Produire en France et EU"
+url = "/developpement-de-nouveaux-produits/produire-en-france-eu/"
+weight = 3
+identifier = "produire-en-france-eu"
+parent = "developpement-de-nouveaux-produits"
+
+[[menu.main]]
+name = "Comprendre le geste"
+url = "/developpement-de-nouveaux-produits/comprendre-le-geste/"
+weight = 4
+identifier = "comprendre-le-geste"
+parent = "developpement-de-nouveaux-produits"
+
 
 
 

@@ -1,6 +1,6 @@
 +++
 author = "CDAN"
-categories = "Projets de substitution"
+categories = "Développement de nouveaux produits"
 cover = "/Gel.png"
 date = 2020-04-15T22:00:00Z
 lastmod = ""

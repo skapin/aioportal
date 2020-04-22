@@ -12,111 +12,111 @@
 }
 
 /* Category: Parent and children - START */
-.securite-conditions-sanitaires,
-.soutenir-activite,
-.projets-substitution,
-.vie-ensemble,
-.rester-flot,
-.cse,
-.securite-conditions-sanitaires-sub,
-.soutenir-activite-sub,
-.projets-substitution-sub,
-.vie-ensemble-sub,
-.rester-flot-sub,
-.cse-sub
+.cat-0,
+.cat-1,
+.cat-2,
+.cat-3,
+.cat-4,
+.cat-5,
+.cat-0-sub,
+.cat-1-sub,
+.cat-2-sub,
+.cat-3-sub,
+.cat-4-sub,
+.cat-5-sub
  {
   color: white !important;
 }
 
 /* ------ */
 
-.securite-conditions-sanitaires {
+.cat-0,
+.cat-0-sub:hover {
   background-color: #0E6EB8 !important;
 }
-.securite-conditions-sanitaires-sub {
+.cat-0-sub {
   background-color: rgb(101, 152, 190) !important;
 }
-.securite-conditions-sanitaires:hover {
+.cat-0:hover {
   background-color: rgb(10, 67, 110) !important;
-}
-.securite-conditions-sanitaires-sub:hover {
-  background-color: #0E6EB8 !important;
 }
 
 /* ------ */
 
-.soutenir-activite {
+.cat-1,
+.cat-1-sub:hover {
   background-color: teal !important;
 }
-.soutenir-activite:hover {
+.cat-1:hover {
   background-color: rgb(0, 94, 94) !important;
 }
-.soutenir-activite-sub {
+.cat-1-sub {
   background-color: rgb(115, 180, 180) !important;
 }
-.soutenir-activite-sub:hover {
-  background-color: teal !important;
-}
-
 
 /* ------- */
 
-.projets-substitution {
+.cat-2,
+.cat-2-sub:hover {
   background-color: green !important;
 }
-.projets-substitution-sub {
+.cat-2-sub {
   background-color: rgb(130, 196, 130) !important;
 }
-.projets-substitution:hover {
+.cat-2:hover {
   background-color: rgb(0, 78, 0) !important;
 }
-.projets-substitution-sub:hover {
-  background-color: green !important;
-}
 
 /* ------- */
 
-.vie-ensemble {
+.cat-3,
+.cat-3-sub:hover {
   background-color: olive !important;
 }
-.vie-ensemble-sub {
+.cat-3-sub {
   background-color: rgb(207, 207, 118) !important;
 }
-.vie-ensemble:hover {
+.cat-3:hover {
   background-color: rgb(77, 77, 0) !important;
 }
-.vie-ensemble-sub:hover {
-  background-color: olive !important;
-}
 
 /* ------- */
 
-.rester-flot {
+.cat-4,
+.cat-4-sub:hover {
   background-color: rgb(167, 132, 57) !important;
 }
-.rester-flot-sub {
+.cat-4-sub {
   background-color: rgb(216, 190, 135)  !important;
 }
-.rester-flot:hover {
+.cat-4:hover {
   background-color: rgb(102, 80, 32) !important;
-}
-.rester-flot-sub:hover {
-  background-color: rgb(167, 132, 57)  !important;
 }
 
 /* ------- */
 
-.cse {
+.cat-5,
+.cat-5-sub:hover {
   background-color: orange !important;
 }
-.cse-sub {
+.cat-5-sub {
   background-color: rgb(247, 210, 141)  !important;
 }
-.cse:hover {
+.cat-5:hover {
   background-color: rgb(158, 103, 1) !important;
 }
-.cse-sub:hover {
-  background-color: orange  !important;
+
+/* ------- */
+
+.cat-6,
+.cat-6-sub:hover {
+  background-color: #FFD700 !important;
+}
+.cat-6-sub {
+  background-color: rgb(202, 185, 86)  !important;
+}
+.cat-6:hover {
+  background-color: rgb(179, 152, 2) !important;
 }
 /* Category: Parent and children - END */
 
@@ -137,16 +137,21 @@
   list-style: none;
 }
 
+.cat-fixed-height {
+  min-height: 38px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
 
 .space-label {
   margin: 2px 4px !important;
 }
 
-.toggle-submenu {
+ul.list-sub {
   display: none;
 }
-
-.toggle-activator:hover * {
-  display: inherit;
+.list-sub.show {
+  display: block;
 }
 /* Nested Menu display - END */
