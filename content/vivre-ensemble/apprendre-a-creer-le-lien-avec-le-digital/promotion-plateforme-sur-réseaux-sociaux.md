@@ -43,6 +43,8 @@ Exemple avec emojis :
 
 ![](/Exemple poste FR.png "Exemple")
 
+![](/Covid-19-solutions-fr.png)
+
 ***
 
 Version EN :
