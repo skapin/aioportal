@@ -49,9 +49,7 @@ Stay safe, stay smart.
 
 ***
 
-PS (Petit hic, je n'arrive pas à publier d'emojis sur ce site, voici un exemple de notre LinkedIn)
-
-![](/Screenshot 2020-04-22 at 19.07.31.png)
+PS (Petit hic, je n'arrive pas à publier d'emojis sur ce site, je vous met un petit exemple à la fin de ce que ça peut donner)
 
 ***
 
@@ -81,10 +79,14 @@ AGV désinfectant :
 
 Images :
 
-![](/Screenshot 2020-04-22 at 19.07.31.png)
-
 ![](/Platform.png)
 
 ![](/Covid-19-solutions-en.png)
 
 ![](/Covid-19-solutions-fr.png)
+
+***
+
+Exemple de poste :
+
+![](/Screenshot 2020-04-22 at 19.07.31.png)
