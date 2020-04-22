@@ -40,3 +40,5 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
+pages:
+- content/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-à-cnh-agv-diffuseur.md
