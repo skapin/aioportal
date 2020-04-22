@@ -20,7 +20,7 @@ Je publie sur l’intranet d’ici la fin de semaine un tuto sur la création de
 
 Si besoin d’aide ou de conseils, n’hésitez pas à me contacter (mail, téléphone, WhatsApp, Discord… je suis partout ;) )
 
-Stay safe, Stay smart, Team AIO
+Stay safe, Stay smart, Team AIO x
 
 PS (Petit hic, je n'arrive pas à publier des emojis depuis ce site, je vous fait une capture d'écran pour vous montrer lesquels pourraient fonctionner !)
 
