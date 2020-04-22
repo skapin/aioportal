@@ -11,19 +11,21 @@
   padding-right: 10%;
 }
 
-/* Category: Parent and children - START */
+/* Nested Menu display - START */
 .cat-0,
 .cat-1,
 .cat-2,
 .cat-3,
 .cat-4,
 .cat-5,
+.cat-6,
 .cat-0-sub,
 .cat-1-sub,
 .cat-2-sub,
 .cat-3-sub,
 .cat-4-sub,
-.cat-5-sub
+.cat-5-sub,
+.cat-6-sub
  {
   color: white !important;
 }
@@ -118,10 +120,8 @@
 .cat-6:hover {
   background-color: rgb(179, 152, 2) !important;
 }
-/* Category: Parent and children - END */
 
 
-/* Nested Menu display - START */
 .list-horizontal {
   margin: 0;
   padding: 0;
