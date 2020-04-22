@@ -3,6 +3,7 @@ author = "Holly"
 categories = "Vie ensemble"
 cover = "/Platform.png"
 date = 2020-04-22T13:00:00Z
+draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
