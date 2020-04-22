@@ -3,7 +3,6 @@ author = "Holly"
 categories = "Vie ensemble"
 cover = "/Platform.png"
 date = 2020-04-22T13:00:00Z
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
@@ -90,3 +89,5 @@ Images :
 Exemple de poste :
 
 [https://www.linkedin.com/posts/aio-karakuri_aio-activity-6658773126979035137-_qbm](https://www.linkedin.com/posts/aio-karakuri_aio-activity-6658773126979035137-_qbm "https://www.linkedin.com/posts/aio-karakuri_aio-activity-6658773126979035137-_qbm")
+
+![](/Screenshot 2020-04-22 at 19.07.31.png)
