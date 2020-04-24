@@ -18,7 +18,7 @@ Créer un profil professionnel n'a jamais été aussi simple qu'avec LinkedIn ! 
 
 #### Quel est le standard AIO ?
 
-![](/HPOP.png)
+![](/Profils LinkedIn 1.png)
 
 Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/)
 
@@ -26,12 +26,6 @@ Photo de profil : Photo devant photocall (à récupérer auprès de vos team lea
 
 Si vous rencontrez des difficultés, n'hésitez pas à me contacter !
 
-![](/Profil exemple APEY.png)
+![](/Profils LinkedIn 2.png)
 
-![](/Profil exemple BGER.png)
-
-![](/Profil exemple CBIE.png)
-
-![](/Profil exemple CMAR.png)
-
-![](/Profil exemple GGIM.png)
+![](/Profils LinkedIn 3.png)
