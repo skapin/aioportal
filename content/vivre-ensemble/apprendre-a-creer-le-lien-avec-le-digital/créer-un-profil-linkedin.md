@@ -18,7 +18,7 @@ Créer un profil professionnel n'a jamais été aussi simple qu'avec LinkedIn ! 
 
 #### Quel est le standard AIO ?
 
-![](/Profil exemple HPOP.png)
+![](/HPOP.png)
 
 Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/)
 
