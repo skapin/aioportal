@@ -12,11 +12,11 @@ youtube_video_id = ""
 +++
 Créer un profil professionnel n'a jamais été aussi simple qu'avec LinkedIn ! Rejoignez votre équipe sur cette plateforme, bâtissez votre présence sur le plus grand réseau de professionnels au monde !
 
-Comment créer son profil ?
+#### Comment créer son profil ?
 
 [https://www.linkedin.com/help/linkedin/answer/3171/s-identifier-pour-s-inscrire-sur-linkedin?lang=fr](https://www.linkedin.com/help/linkedin/answer/3171/s-identifier-pour-s-inscrire-sur-linkedin?lang=fr "https://www.linkedin.com/help/linkedin/answer/3171/s-identifier-pour-s-inscrire-sur-linkedin?lang=fr")
 
-Quel est le standard AIO ?
+#### Quel est le standard AIO ?
 
 ![](/Profil exemple HPOP.png)
 
