@@ -32,11 +32,17 @@
 <!-- PERMET D'AFFICHER EGALEMENT LES ARTICLES DES SOUS CATEGORIES DANS LA VUE DE LA CAT. PARENTE  -->
   {{ $pages := slice }}
   {{ $currentSection := .CurrentSection }}
+
   
+  {{ partial "trello_dispatch.html" (dict "current_url" $currentSection.RelPermalink) }}
+  
+
+
   {{ range where .Site.RegularPages "Section" .Section }}
     {{ if in (.Permalink | string) $currentSection.RelPermalink }}
       {{ $pages = $pages | append . }}
       <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+
         {{ .Render "summary" }}
       </div>
     {{ end }}
