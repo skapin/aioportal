@@ -18,7 +18,7 @@ Créer un profil professionnel n'a jamais été aussi simple qu'avec LinkedIn ! 
 
 #### Quel est le standard AIO ?
 
-![](/Profils LinkedIn i.png)
+![](https://aio.eu/wp-content/uploads/2020/04/Profils-LinkedIn-i.png)
 
 Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/)
 
@@ -26,6 +26,6 @@ Photo de profil : Photo devant photocall (à récupérer auprès de vos team lea
 
 Si vous rencontrez des difficultés, n'hésitez pas à me contacter !
 
-![](/Profils LinkedIn ii.png)
+![](https://aio.eu/wp-content/uploads/2020/04/Profils-LinkedIn-ii.png)
 
-![](/Profils LinkedIn iii.png)
+![](https://aio.eu/wp-content/uploads/2020/04/Profils-LinkedIn-iii.png)
