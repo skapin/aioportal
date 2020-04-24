@@ -20,7 +20,7 @@ Créer un profil professionnel n'a jamais été aussi simple qu'avec LinkedIn ! 
 
 ![](https://aio.eu/wp-content/uploads/2020/04/Profils-LinkedIn-i.png)
 
-Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/)
+Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/Réseaux sociaux/Bannières et icons/Réseaux AIO/Bannière Linkedin.png)
 
 Photo de profil : Photo devant photocall (à récupérer auprès de vos team leaders)
 
