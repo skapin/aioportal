@@ -3,7 +3,6 @@ author = "CDAN"
 categories = "Conditions Sanitaires"
 cover = "/thermometre-frontal-et-auriculaire-thermoval-duo-scan-hartmann.jpg"
 date = 2020-04-26T22:00:00Z
-draft = true
 lastmod = ""
 pdf_link = ""
 tags = []
