@@ -44,4 +44,5 @@ fields:
   label: pdf
   description: Charger un PDF
 pages:
+- content/conditions-sanitaires/5S-sanitaires/arrivée-de-la-machine-à-laver.md
 - content/conditions-sanitaires/5S-sanitaires/prise-de-poste-et-nettoyage.md
