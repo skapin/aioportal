@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AIO</title>
-    <link>http://intranet.aio.eu/tags/</link>
+    <link>http://intranet.aiotools.ovh/tags/</link>
     <description>Recent content in Tags on AIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 10 Apr 2020 16:44:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 22:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://intranet.aio.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://intranet.aiotools.ovh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>aio</title>
-      <link>http://intranet.aio.eu/tags/aio/</link>
-      <pubDate>Fri, 10 Apr 2020 16:44:07 +0200</pubDate>
+      <title>achat</title>
+      <link>http://intranet.aiotools.ovh/tags/achat/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
       
-      <guid>http://intranet.aio.eu/tags/aio/</guid>
+      <guid>http://intranet.aiotools.ovh/tags/achat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSE</title>
-      <link>http://intranet.aio.eu/tags/cse/</link>
-      <pubDate>Fri, 10 Apr 2020 16:44:07 +0200</pubDate>
+      <title>commerce</title>
+      <link>http://intranet.aiotools.ovh/tags/commerce/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
       
-      <guid>http://intranet.aio.eu/tags/cse/</guid>
+      <guid>http://intranet.aiotools.ovh/tags/commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>http://intranet.aiotools.ovh/tags/e-commerce/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>http://intranet.aiotools.ovh/tags/site/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/tags/site/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AIO</title>
-    <link>http://intranet.aio.eu/categories/</link>
+    <link>http://intranet.aiotools.ovh/categories/</link>
     <description>Recent content in Categories on AIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 10 Apr 2020 16:44:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 22:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://intranet.aio.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://intranet.aiotools.ovh/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>vie ensemble</title>
-      <link>http://intranet.aio.eu/categories/vie-ensemble/</link>
-      <pubDate>Fri, 10 Apr 2020 16:44:07 +0200</pubDate>
+      <title>Conditions Sanitaires</title>
+      <link>http://intranet.aiotools.ovh/categories/conditions-sanitaires/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
       
-      <guid>http://intranet.aio.eu/categories/vie-ensemble/</guid>
+      <guid>http://intranet.aiotools.ovh/categories/conditions-sanitaires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projets de substitution</title>
+      <link>http://intranet.aiotools.ovh/categories/projets-de-substitution/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/categories/projets-de-substitution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vie ensemble</title>
+      <link>http://intranet.aiotools.ovh/categories/vie-ensemble/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/categories/vie-ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE</title>
+      <link>http://intranet.aiotools.ovh/categories/cse/</link>
+      <pubDate>Sun, 03 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/categories/cse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soutenir L&#39;activité</title>
+      <link>http://intranet.aiotools.ovh/categories/soutenir-lactivit%C3%A9/</link>
+      <pubDate>Thu, 23 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/categories/soutenir-lactivit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement de nouveaux produits</title>
+      <link>http://intranet.aiotools.ovh/categories/d%C3%A9veloppement-de-nouveaux-produits/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/categories/d%C3%A9veloppement-de-nouveaux-produits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rester à flot</title>
+      <link>http://intranet.aiotools.ovh/categories/rester-%C3%A0-flot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/categories/rester-%C3%A0-flot/</guid>
       <description></description>
     </item>
     

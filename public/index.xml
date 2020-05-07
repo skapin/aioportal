@@ -2,32 +2,429 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIO</title>
-    <link>http://intranet.aio.eu/</link>
+    <link>http://intranet.aiotools.ovh/</link>
     <description>Recent content on AIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 10 Apr 2020 16:44:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 22:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://intranet.aio.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://intranet.aiotools.ovh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>OuvertureSite</title>
-      <link>http://intranet.aio.eu/posts/ouverturesite/</link>
-      <pubDate>Fri, 10 Apr 2020 16:44:07 +0200</pubDate>
+      <title>Circuit Nettoyage Chiffons à Usage unique</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/circuit-nettoyage-chiffons-%C3%A0-usage-unique/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
       
-      <guid>http://intranet.aio.eu/posts/ouverturesite/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;http://aio.eu&#34; width=&#34;1088&#34; height=&#34;637&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;encrypted-media *&#34;&gt;&lt;/iframe&gt;
-Cut out summary from your post content here.&lt;/p&gt;</description>
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/circuit-nettoyage-chiffons-%C3%A0-usage-unique/</guid>
+      <description>Nouvelle Boucle logistique de Chiffons de désinfection postes</description>
     </item>
     
     <item>
-      <title>Desc</title>
-      <link>http://intranet.aio.eu/about/desc/</link>
-      <pubDate>Fri, 10 Apr 2020 16:43:22 +0200</pubDate>
+      <title>Cloisons d&#39;hygiène réfectoire</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/cloisons-d-hygi%C3%A8ne-r%C3%A9fectoire/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
       
-      <guid>http://intranet.aio.eu/about/desc/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/cloisons-d-hygi%C3%A8ne-r%C3%A9fectoire/</guid>
+      <description>Une bâche totalement translucide pour partager la pause déjeuner tout en limitant les risques de contamination</description>
+    </item>
+    
+    <item>
+      <title>Continuez à apprendre de nouvelles astuces mécaniques sur la plateforme de MOOC AIO</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/continuez-%C3%A0-apprendre-de-nouvelles-astuces-m%C3%A9caniques-sur-la-plateforme-de-mooc-aio/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/continuez-%C3%A0-apprendre-de-nouvelles-astuces-m%C3%A9caniques-sur-la-plateforme-de-mooc-aio/</guid>
+      <description>Vous pouvez accéder à toute les vidéos d&amp;rsquo;astuces sur la plateforme de MOOC pour en apprendre de nouvelles et tester votre compréhension ! Pour cela rendez vous sur notre site de MOOC interne, AIO Academy !
+Pour y accéder :
+AIO Academy: Se connecter sur le site
+Pour se connecter :
+Utiliser votre adresse email AIO ou votre diminutif à 4 lettres. Si vous n&amp;rsquo;avez pas de compte : utiliser l&amp;rsquo;adresse atelier@aio.</description>
+    </item>
+    
+    <item>
+      <title>Séparateurs Bureaux</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/s%C3%A9parateurs-bureaux/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/s%C3%A9parateurs-bureaux/</guid>
+      <description>Nouveaux écrans en Polycarbonate alvéolaire, des protections pour nous des inspirations pour nos clients</description>
+    </item>
+    
+    <item>
+      <title>Un nouveau Distributeur Main Libre (DML)</title>
+      <link>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/un-nouveau-distributeur-main-libre-dml/</link>
+      <pubDate>Mon, 04 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/un-nouveau-distributeur-main-libre-dml/</guid>
+      <description>Notre nouveau DML est sorti! Un kaizen pour ALAFois un meilleur confort d&amp;rsquo;utilisation de la pédale et moins de composant!
+Il est proposé dès aujourd&amp;rsquo;hui sur notre plateforme publique à 109€!
+Continuez d&amp;rsquo;en faire la promotion!</description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 5 avril 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-5-avril-2020/</link>
+      <pubDate>Sun, 03 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-5-avril-2020/</guid>
+      <description>Ci joint le PV du CSE de la semaine dernière, à votre dispo, Sébastien</description>
+    </item>
+    
+    <item>
+      <title>Retour CSE du 04/05/2020</title>
+      <link>http://intranet.aiotools.ovh/cse/retour-cse-du-04-05-2020/</link>
+      <pubDate>Sun, 03 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/retour-cse-du-04-05-2020/</guid>
+      <description>En attendant la validation du PV semaine prochaine, voici un court retour sur notre CSE du 04/05/2020 :
+. Point sanitaire :
+ Il faut qu&amp;rsquo;on avance tous ensemble, et plus vite , sur l&amp;rsquo;amélioration de nos conditions sanitaires. N&amp;rsquo;hésitez pas à faire des suggestions à vos TL lors des kick off et initier quelque chose! Les points sensibles sont selon nous le réfectoire, les vestiaires, WC&amp;hellip; Nous allons mettre en place des sas afin de favoriser la désinfection avant de rentrer dans ces zones ainsi qu&amp;rsquo;un nettoyage quotidien des zones identifiées &amp;ldquo;à risque&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Arrivée de la machine à laver...</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/arriv%C3%A9e-de-la-machine-%C3%A0-laver/</link>
+      <pubDate>Wed, 29 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/arriv%C3%A9e-de-la-machine-%C3%A0-laver/</guid>
+      <description>Elle nous permettra de laver à 60° nos lingettes et tuer le COVID-19</description>
+    </item>
+    
+    <item>
+      <title>En plus dans le kit ... un gel personnel distribué dès cette semaine à chacun</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/en-plus-dans-le-kit-un-gel-personnel-distribu%C3%A9-d%C3%A8s-cette-semaine-%C3%A0-chacun/</link>
+      <pubDate>Mon, 27 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/en-plus-dans-le-kit-un-gel-personnel-distribu%C3%A9-d%C3%A8s-cette-semaine-%C3%A0-chacun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Après les masques ... Prise de la température</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/apr%C3%A8s-les-masques-prise-de-la-temp%C3%A9rature/</link>
+      <pubDate>Sun, 26 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/apr%C3%A8s-les-masques-prise-de-la-temp%C3%A9rature/</guid>
+      <description>En rupture de stock depuis des semaines, nous avons réussi à commander des thermomètres. Nous espérons les obtenir dans la semaine. Cela va nous permettre de faire une prise de température à l&amp;rsquo;entrée du batiment.</description>
+    </item>
+    
+    <item>
+      <title>Prise de poste et nettoyage</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/prise-de-poste-et-nettoyage/</link>
+      <pubDate>Sun, 26 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/prise-de-poste-et-nettoyage/</guid>
+      <description>A chaque prise de poste, nettoyez votre zone de travail</description>
+    </item>
+    
+    <item>
+      <title>CHANGEMENT DE FONCTIONNEMENT</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/changement-de-fonctionnement/</link>
+      <pubDate>Thu, 23 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/changement-de-fonctionnement/</guid>
+      <description>URGENT - fonctionnement avec 1 equipe Jaune en production le matin et 1 équipe Bleu l&amp;rsquo;après midi et cela toute la semaine. Attention le BE, l&amp;rsquo;IT et le commerce continueront avec un travail à la journée pour les Jaunes lundi et mardi et pour les Bleus mercresi et jeudi. Pour rappels, le vendredi est férié.
+Les horaires proposées sont 6h-13h et 13h-20h, les 7h seront payées 8h.
+Ce changement est dû à des demandes très ponctuelles pour la fabrication d&#39;équipements nécessaires aux renforcement des conditions sanitaires pour nos clients.</description>
+    </item>
+    
+    <item>
+      <title>Créer un profil LinkedIn</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/cr%C3%A9er-un-profil-linkedin/</link>
+      <pubDate>Thu, 23 Apr 2020 13:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/cr%C3%A9er-un-profil-linkedin/</guid>
+      <description>Créer un profil professionnel n&amp;rsquo;a jamais été aussi simple qu&amp;rsquo;avec LinkedIn ! Rejoignez votre équipe sur cette plateforme, bâtissez votre présence sur le plus grand réseau de professionnels au monde !
+Comment créer son profil ? https://www.linkedin.com/help/linkedin/answer/3171/s-identifier-pour-s-inscrire-sur-linkedin?lang=fr
+Quel est le standard AIO ? Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/Réseaux sociaux/Bannières et icons/Réseaux AIO/Bannière Linkedin.png)
+Photo de profil : Photo devant photocall (à récupérer auprès de vos team leaders)</description>
+    </item>
+    
+    <item>
+      <title>Safe pizza pour les verts devenus BLEUS</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/safe-pizza-pour-les-verts-devenus-bleus/</link>
+      <pubDate>Wed, 22 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/safe-pizza-pour-les-verts-devenus-bleus/</guid>
+      <description>Ca sera Pizza pour les bleus qui sont les anciens verts &amp;hellip;MAIS&amp;hellip; avec un dej&amp;rsquo; avec plus de précaution&amp;hellip; @ demain</description>
+    </item>
+    
+    <item>
+      <title>Promotion plateforme sur réseaux sociaux</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/promotion-plateforme-sur-r%C3%A9seaux-sociaux/</link>
+      <pubDate>Wed, 22 Apr 2020 13:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/promotion-plateforme-sur-r%C3%A9seaux-sociaux/</guid>
+      <description>Bonsoir AIO team,
+Voici un poste pour les réseaux sociaux qui promeut notre nouvelle plateforme, qui nous aidera à répandre notre activité et à aider les autres :)
+Disponible en français et en anglais, je vous laisse copier/coller le poste, l’adapter si besoin aux spécificités de votre réseau, et l’accompagner de lien(s), de vidéo(s) ou d’image(s) (disponibles en-dessous). N’hésitez pas à taguer vos connaissances, on ne sait jamais, ça peut leur intéresser !</description>
+    </item>
+    
+    <item>
+      <title>200 jours sans AT</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/200-jours-sans-at/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/200-jours-sans-at/</guid>
+      <description>Bravo à toutes et tous, nous passons le cap des 200 jours sans AT&amp;hellip; y&amp;rsquo;a quoi d&amp;rsquo;autre à part les pizzas?</description>
+    </item>
+    
+    <item>
+      <title>Site marchand </title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/site-marchand/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/site-marchand/</guid>
+      <description>Le site marchand public pour proposer nos solutions contre le covid-19 est disponible. A diffuser partout !
+Aidez les entreprises et organisations française à luter contre le covid et permettre aux collaborateurs de travailler en sécurité grâce à nos solutions astucieuse, réutilisable et super simple.
+Notre force ? Délai de livraison ultra-court et achat 100% par internet ! Un clic et c&amp;rsquo;est partie !
+https://public.aio-platform.eu/</description>
+    </item>
+    
+    <item>
+      <title>L&#39;AGV suiveur à la norme CE</title>
+      <link>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/produire-en-france-eu/l-agv-suiveur-%C3%A0-la-norme-ce/</link>
+      <pubDate>Mon, 20 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/produire-en-france-eu/l-agv-suiveur-%C3%A0-la-norme-ce/</guid>
+      <description>Bravo pour la mise à la norme!!! y&amp;rsquo;a plus qu&#39;à le vendre au travers notre solution de décontamination &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pizza party revisited</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/pizza-party-revisited/</link>
+      <pubDate>Mon, 20 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/pizza-party-revisited/</guid>
+      <description>Attention la pizza party doit se mettre à la page et se protéger du COVID-19. Nous éviterons donc de se pencher sur les pizzas Premier test avec l&#39;équipe ROUGE demain.</description>
+    </item>
+    
+    <item>
+      <title>Contrat de Location AGV Désinfection</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/contrat-de-location-agv-d%C3%A9sinfection/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/contrat-de-location-agv-d%C3%A9sinfection/</guid>
+      <description>Nous proposons à nos clients un nouveau service sous forme de contrat de location AGV suiveur avec système de pulvérisation de produit désinfectant.</description>
+    </item>
+    
+    <item>
+      <title>Les 5000 masques sont arrivés !!</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-masques-sont-arriv%C3%A9s/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-masques-sont-arriv%C3%A9s/</guid>
+      <description>Photos de Sébastien&amp;hellip; prochain jalon des masques à la norme CE, lavables 50 fois</description>
+    </item>
+    
+    <item>
+      <title>Les Rouges et les verts - rythme pour les semaines à venir</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-rouges-et-les-verts-rythme-pour-les-semaines-%C3%A0-venir/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-rouges-et-les-verts-rythme-pour-les-semaines-%C3%A0-venir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masques, un tuyau des pros. Cliquez et regardez la vidéo ... bon standard à apprendre</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/masques-un-tuyau-des-pros/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/masques-un-tuyau-des-pros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 14 avril 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 20 avril 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020-1/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020-1/</guid>
+      <description>A lire comme les précédents,</description>
+    </item>
+    
+    <item>
+      <title>Relayer nos innovations sur vos réseaux sociaux ... peut nous permettre de faire des ventes</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/relayez-nos-innovations-sur-vos-r%C3%A9seaux-sociaux-peut-nous-permettre-de-faire-des-ventes/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/relayez-nos-innovations-sur-vos-r%C3%A9seaux-sociaux-peut-nous-permettre-de-faire-des-ventes/</guid>
+      <description>Diffusez sur Facebook, Twitter, LinkedIn ou Insta &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 23 mars 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-23-mars-2020/</link>
+      <pubDate>Thu, 16 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-23-mars-2020/</guid>
+      <description>Bonne lecture du PV du 23 mars</description>
+    </item>
+    
+    <item>
+      <title>Comment partager son écran sous DISCORD? regarde le tuto</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/comment-partager-son-%C3%A9cran-sous-discord-regarde-le-tuto/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/comment-partager-son-%C3%A9cran-sous-discord-regarde-le-tuto/</guid>
+      <description>Regardez cette vidéo pour savoir comment streamer son écran avec Discord.
+![](/Capture dcran 2020-04-20 à 21.47.29.jpg)</description>
+    </item>
+    
+    <item>
+      <title>De nouveaux standards pour nos clients ... pour renforcer les conditions sanitaires</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires/</guid>
+      <description>Tout nouveau, tout beau, bravo aux équipes pour ce nouveau standard &amp;hellip; commande de 10 kits en cours de livraison</description>
+    </item>
+    
+    <item>
+      <title>Désinfection du RDC du batiment de Pessac... regardez la vidéo</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9sinfection-du-rdc-du-batiment-de-pessac/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9sinfection-du-rdc-du-batiment-de-pessac/</guid>
+      <description>Notre challenge du jour &amp;hellip; faire un cycle à blanc de l&amp;rsquo;AGV dans tout l&amp;rsquo;atelier et les bureaux du bas</description>
+    </item>
+    
+    <item>
+      <title>IMMINENT - Arrivée de 5 000 masques</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9part-des-masques-depuis-un-entrep%C3%B4t-d-aubervilliers-aujourd-hui-ou-au-plus-tard-demain-matin-via-chronopost-nous-esp%C3%A9rons-les-recevoir-lundi-ou-mardi-suivant-les-difficult%C3%A9s-de-chronopost-%C3%A0-nous-livrer/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9part-des-masques-depuis-un-entrep%C3%B4t-d-aubervilliers-aujourd-hui-ou-au-plus-tard-demain-matin-via-chronopost-nous-esp%C3%A9rons-les-recevoir-lundi-ou-mardi-suivant-les-difficult%C3%A9s-de-chronopost-%C3%A0-nous-livrer/</guid>
+      <description>Départ des masques depuis un entrepôt d&amp;rsquo;Aubervilliers aujourd&amp;rsquo;hui 16 avril ou au plus tard demain matin via Chronopost&amp;hellip; Nous espérons les recevoir lundi ou mardi suivant les difficultés de Chronopost à nous livrer</description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 13 mars 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-13-mars-2020/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-13-mars-2020/</guid>
+      <description>Bonne lecture - PV du 13 mars 2020</description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 30 mars 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-30-mars-2020/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-30-mars-2020/</guid>
+      <description>Bonne lecture - PV du 30 mars 2020</description>
+    </item>
+    
+    <item>
+      <title>PV du CSE du 6 avril 2020</title>
+      <link>http://intranet.aiotools.ovh/cse/pv-du-cse-du-6-avril-2020/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/cse/pv-du-cse-du-6-avril-2020/</guid>
+      <description>Bonne lecture ;)</description>
+    </item>
+    
+    <item>
+      <title>Un pouce mousse à pédale</title>
+      <link>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/test-pdf/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/test-pdf/</guid>
+      <description>Découvert ce matin en rentrant dans la société, une astuce de l&#39;équipe ROUGE. Que Loic a aussitôt vendu à Schneider 2 premiers exemplaires &amp;hellip; Merci de vos KAIZEN et vos nouvelles idées de produits ou de services. Découvrez la vidéo avec un petit clic</description>
+    </item>
+    
+    <item>
+      <title>Une arrivée bien protégée</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/une-arriv%C3%A9e-bien-prot%C3%A9g%C3%A9e/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/une-arriv%C3%A9e-bien-prot%C3%A9g%C3%A9e/</guid>
+      <description>Pascal nous montre les EPI à porter avant de RENTRER dans notre usine ;) pessacaise</description>
+    </item>
+    
+    <item>
+      <title>Une video pour m&#39;expliquer les KANBAN?</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/qui-me-fais-une-video-pour-m-expliquer-les-kanban/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/qui-me-fais-une-video-pour-m-expliquer-les-kanban/</guid>
+      <description>Votre video est à venir&amp;hellip; mais ce que nous savons c&amp;rsquo;est que les KANBAN nous aide à regarder dans la bonne direction en nous révélant les problèmes</description>
+    </item>
+    
+    <item>
+      <title>Informations Générales </title>
+      <link>http://intranet.aiotools.ovh/about/desc/</link>
+      <pubDate>Fri, 10 Apr 2020 14:43:22 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/about/desc/</guid>
+      <description>Info de notre choix</description>
+    </item>
+    
+    <item>
+      <title>Covid-19, même pendant la pizza party ...</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/covid-19-m%C3%AAme-pendant-la-pizza-party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/covid-19-m%C3%AAme-pendant-la-pizza-party/</guid>
+      <description>Les entreprises modifient les fonctionnements des cantines/self &amp;hellip; et des pauses déjeuner. Le COVID-19 s&amp;rsquo;invite aussi sur le pain de nos panières à pain ou sur les buffets proposés dans les cantines&amp;hellip; et donc sur nos PIZZAS.
+Nous vous proposons donc d&#39;éviter les contacts dans la prise des parts de pizzas, et de désigner une personne pour faire le dispatching des parts de façon protégée &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Envois à vos domiciles pour les 100% confinés</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/envois-%C3%A0-vos-domiciles-pour-les-100-confin%C3%A9s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/envois-%C3%A0-vos-domiciles-pour-les-100-confin%C3%A9s/</guid>
+      <description>Nous allons faire passer à toutes les personnes qui n&amp;rsquo;appartiennent ni aux ROUGE, ni aux VERT un kit à votre domicile via UPS. Cela vous permettra de rentrer dans l&amp;rsquo;usine avec tout ce qu&amp;rsquo;il faut.</description>
+    </item>
+    
+    <item>
+      <title>Mais aussi avec les pieds ...</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/mais-aussi-avec-les-pieds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/mais-aussi-avec-les-pieds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PGE, plan garantie par l&#39;état chez AIO</title>
+      <link>http://intranet.aiotools.ovh/rester-a-flot/pge-plan-garantie-par-l-%C3%A9tat-chez-aio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/rester-a-flot/pge-plan-garantie-par-l-%C3%A9tat-chez-aio/</guid>
+      <description>Nous avons fait auprès de nos partenaires bancaires une demande de prêt, PGE prêt lancé par l&#39;état en soutien aux entreprises. Nous attendons ce jour encore validation de 2 banques. Ce prêt doit nous permettre de passer cette période incertaine en trésorerie. Toutefois l&amp;rsquo;argent sera à rendre (et oui c&amp;rsquo;est un prêt et pas un don) dans 12 mois.</description>
+    </item>
+    
+    <item>
+      <title>Sans les mains ...</title>
+      <link>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/sans-les-mains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/sans-les-mains/</guid>
+      <description>Bravo à l&#39;équipe ROUGE &amp;hellip; pour le moment qu&#39;à l&amp;rsquo;entrée&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>VENDU ce matin à CNH - AGV diffuseur</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur/</guid>
+      <description>Première vente de notre AGV pour décontaminer les ateliers à&amp;hellip; 20 000 m2/heure, pour le site CNH-FIAT de Bourbon Lancy. Bravo à tous</description>
     </item>
     
   </channel>

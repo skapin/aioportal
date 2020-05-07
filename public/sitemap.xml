@@ -3,53 +3,371 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://intranet.aio.eu/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/tags/aio/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/categories/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/tags/cse/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/posts/ouverturesite/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/categories/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/posts/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/circuit-nettoyage-chiffons-%C3%A0-usage-unique/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/tags/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/cloisons-d-hygi%C3%A8ne-r%C3%A9fectoire/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/categories/vie-ensemble/</loc>
-    <lastmod>2020-04-10T16:44:07+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/categories/conditions-sanitaires/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/about/</loc>
-    <lastmod>2020-04-10T16:43:22+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://intranet.aio.eu/about/desc/</loc>
-    <lastmod>2020-04-10T16:43:22+02:00</lastmod>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/continuez-%C3%A0-apprendre-de-nouvelles-astuces-m%C3%A9caniques-sur-la-plateforme-de-mooc-aio/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/categories/projets-de-substitution/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/s%C3%A9parateurs-bureaux/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/un-nouveau-distributeur-main-libre-dml/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/categories/vie-ensemble/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/categories/cse/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-5-avril-2020/</loc>
+    <lastmod>2020-05-03T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/retour-cse-du-04-05-2020/</loc>
+    <lastmod>2020-05-04T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/arriv%C3%A9e-de-la-machine-%C3%A0-laver/</loc>
+    <lastmod>2020-04-29T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/en-plus-dans-le-kit-un-gel-personnel-distribu%C3%A9-d%C3%A8s-cette-semaine-%C3%A0-chacun/</loc>
+    <lastmod>2020-04-27T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/apr%C3%A8s-les-masques-prise-de-la-temp%C3%A9rature/</loc>
+    <lastmod>2020-04-26T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/prise-de-poste-et-nettoyage/</loc>
+    <lastmod>2020-04-26T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/changement-de-fonctionnement/</loc>
+    <lastmod>2020-04-23T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/categories/soutenir-lactivit%C3%A9/</loc>
+    <lastmod>2020-04-23T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/</loc>
+    <lastmod>2020-04-23T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/cr%C3%A9er-un-profil-linkedin/</loc>
+    <lastmod>2020-04-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/</loc>
+    <lastmod>2020-04-22T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/safe-pizza-pour-les-verts-devenus-bleus/</loc>
+    <lastmod>2020-04-22T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/promotion-plateforme-sur-r%C3%A9seaux-sociaux/</loc>
+    <lastmod>2020-04-22T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/200-jours-sans-at/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/tags/achat/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/tags/commerce/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/tags/e-commerce/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/tags/site/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/site-marchand/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/tags/</loc>
+    <lastmod>2020-04-21T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/produire-en-france-eu/</loc>
+    <lastmod>2020-04-20T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/produire-en-france-eu/l-agv-suiveur-%C3%A0-la-norme-ce/</loc>
+    <lastmod>2020-04-20T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/pizza-party-revisited/</loc>
+    <lastmod>2020-04-20T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/contrat-de-location-agv-d%C3%A9sinfection/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-masques-sont-arriv%C3%A9s/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-rouges-et-les-verts-rythme-pour-les-semaines-%C3%A0-venir/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/masques-un-tuyau-des-pros/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020-1/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/relayez-nos-innovations-sur-vos-r%C3%A9seaux-sociaux-peut-nous-permettre-de-faire-des-ventes/</loc>
+    <lastmod>2020-04-19T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-23-mars-2020/</loc>
+    <lastmod>2020-04-16T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/comment-partager-son-%C3%A9cran-sous-discord-regarde-le-tuto/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9sinfection-du-rdc-du-batiment-de-pessac/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/categories/d%C3%A9veloppement-de-nouveaux-produits/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9part-des-masques-depuis-un-entrep%C3%B4t-d-aubervilliers-aujourd-hui-ou-au-plus-tard-demain-matin-via-chronopost-nous-esp%C3%A9rons-les-recevoir-lundi-ou-mardi-suivant-les-difficult%C3%A9s-de-chronopost-%C3%A0-nous-livrer/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-13-mars-2020/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-30-mars-2020/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/cse/pv-du-cse-du-6-avril-2020/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/test-pdf/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/une-arriv%C3%A9e-bien-prot%C3%A9g%C3%A9e/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/qui-me-fais-une-video-pour-m-expliquer-les-kanban/</loc>
+    <lastmod>2020-04-15T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/about/</loc>
+    <lastmod>2020-04-10T14:43:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/about/desc/</loc>
+    <lastmod>2020-04-10T14:43:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/covid-19/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/ameliorer-la-formation-et-le-developpement-du-kkr/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/comprendre-le-geste/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/covid-19-m%C3%AAme-pendant-la-pizza-party/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/envois-%C3%A0-vos-domiciles-pour-les-100-confin%C3%A9s/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/mais-aussi-avec-les-pieds/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/rester-a-flot/pge-plan-garantie-par-l-%C3%A9tat-chez-aio/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/categories/rester-%C3%A0-flot/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/rester-a-flot/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/sans-les-mains/</loc>
+  </url>
+  
+  <url>
+    <loc>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur/</loc>
   </url>
   
 </urlset>

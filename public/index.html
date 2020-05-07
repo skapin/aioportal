@@ -15,15 +15,16 @@
 
 
 
-<meta name="generator" content="Hugo 0.68.3" />
+<meta name="generator" content="Hugo 0.69.0" />
 
-<link rel="canonical" href="http://intranet.aio.eu/" />
+<link rel="canonical" href="http://intranet.aiotools.ovh/" />
+
 
 <meta property="og:title" content="AIO" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://intranet.aio.eu/" />
-<meta property="og:updated_time" content="2020-04-10T16:44:07+02:00" />
+<meta property="og:url" content="http://intranet.aiotools.ovh/" />
+<meta property="og:updated_time" content="2020-05-04T22:00:00+00:00" />
 
 
 
@@ -35,6 +36,7 @@
 <link rel="stylesheet" href="/css/github-markdown.css" />
 <link rel="stylesheet" href="/css/semantic.min.css" />
 <link rel="stylesheet" href="/css/site.css" />
+<link rel="stylesheet" href="/css/aio.css">
 
 
 <style>
@@ -61,110 +63,331 @@
       <div class="flipper">
         <section class="front">
           
-<nav class="ui secondary inverted menu dream-menu">
+          <div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile wide tablet wide computer column dream-column">
+    <article class="dream-header">
+      <section class="ui top attached center aligned segment">
+        <div class="ui small image">
+          
+            <a href="http://intranet.aiotools.ovh" title="Home">
+              <img src="/AIO-logo.png">
+            </a>
+          
+        </div>
 
-  <div class="item">
-    <i class="large link bullseye icon dream-flip-toggle" title="Flip it!"></i>
+        
+      </section>
+      
+      <script>
+                          
+        function removeClass(e, c) {
+          elm = document.querySelectorAll(mClass);
+          for (var i = 0; i < elm.length; i++) {
+            if (c == 'active') {
+              elm[i].classList.remove('active');
+            } else {
+              if (!elm[i].classList.contains('active')) elm[i].querySelector('.list-sub').classList.remove('show');
+            }
+          }
+        }
+        
+        var mClass = '.sub-toggle'
+        var menu = document.querySelectorAll(mClass);
+        menu.forEach(function(o) {
+          o.addEventListener('click', function(e) {
+            
+            removeClass(o, 'active');
+            this.classList.add('active');
+            removeClass(o);
+            this.querySelector('.list-sub').classList.toggle('show');
+          });
+        });
+        </script>
+      <section class="ui attached center aligned segment">
+        
+        
+        
+        
+
+        <ul class="list-horizontal">
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-0 space-label cat-fixed-height"
+              id=0
+              title="Sécurité &amp; Conditions sanitaires"
+              style="width: 150px;">
+             <span>Sécurité &amp; Conditions sanitaires</span>
+            </a>
+              <ul 
+              id=0
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-0-sub space-label sub-all-posts" 
+                    href="/conditions-sanitaires/" 
+                    title="Sécurité &amp; Conditions sanitaires"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-0-sub space-label" 
+                                href="/conditions-sanitaires/5s-sanitaires/" 
+                                title="5S sanitaires"
+                                style="width: 150px;">
+                                5S sanitaires
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-0-sub space-label" 
+                                href="/conditions-sanitaires/covid-19/" 
+                                title="Plan suspicion COVID-19"
+                                style="width: 150px;">
+                                Plan suspicion COVID-19
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-1 space-label cat-fixed-height"
+              id=1
+              title="Soutenir l&#39;activité"
+              style="width: 150px;">
+             <span>Soutenir l&#39;activité</span>
+            </a>
+              <ul 
+              id=1
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-1-sub space-label sub-all-posts" 
+                    href="/soutenir-l-activite/" 
+                    title="Soutenir l&#39;activité"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-1-sub space-label" 
+                                href="/soutenir-l-activite/livrer-les-clients/" 
+                                title="Livrer les clients"
+                                style="width: 150px;">
+                                Livrer les clients
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-1-sub space-label" 
+                                href="/soutenir-l-activite/obtenir-des-commandes/" 
+                                title="Obtenir des commandes"
+                                style="width: 150px;">
+                                Obtenir des commandes
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-1-sub space-label" 
+                                href="/soutenir-l-activite/ameliorer-nos-produits/" 
+                                title="Améliorer nos produits"
+                                style="width: 150px;">
+                                Améliorer nos produits
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-2 space-label cat-fixed-height"
+              id=2
+              title="Développement de nouveaux produits"
+              style="width: 150px;">
+             <span>Développement de nouveaux produits</span>
+            </a>
+              <ul 
+              id=2
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-2-sub space-label sub-all-posts" 
+                    href="/developpement-de-nouveaux-produits/" 
+                    title="Développement de nouveaux produits"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/lutte-contre-covid/" 
+                                title="Des produits pour lutter contre le COVID"
+                                style="width: 150px;">
+                                Des produits pour lutter contre le COVID
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/ameliorer-la-formation-et-le-developpement-du-kkr/" 
+                                title="Améliorer la formation et le développement du KKR"
+                                style="width: 150px;">
+                                Améliorer la formation et le développement du KKR
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/produire-en-france-eu/" 
+                                title="Produire en France et EU"
+                                style="width: 150px;">
+                                Produire en France et EU
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/comprendre-le-geste/" 
+                                title="Comprendre le geste"
+                                style="width: 150px;">
+                                Comprendre le geste
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-3 space-label cat-fixed-height"
+              id=3
+              title="Vivre ensemble"
+              style="width: 150px;">
+             <span>Vivre ensemble</span>
+            </a>
+              <ul 
+              id=3
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-3-sub space-label sub-all-posts" 
+                    href="/vivre-ensemble/" 
+                    title="Vivre ensemble"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-3-sub space-label" 
+                                href="/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/" 
+                                title="Apprendre à créer le lien avec le digital"
+                                style="width: 150px;">
+                                Apprendre à créer le lien avec le digital
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-3-sub space-label" 
+                                href="/vivre-ensemble/feter-nos-succes/" 
+                                title="Fêter nos succès"
+                                style="width: 150px;">
+                                Fêter nos succès
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li>
+              <a  class="ui label cat-4 space-label cat-fixed-height" 
+                  href="/rester-a-flot/" 
+                  title="Rester à flot"
+                  style="width: 150px;">
+                  Rester à flot
+              </a>
+            </li>
+            
+          
+        
+        
+            
+            <li>
+              <a  class="ui label cat-5 space-label cat-fixed-height" 
+                  href="/cse/" 
+                  title="CSE"
+                  style="width: 150px;">
+                  CSE
+              </a>
+            </li>
+            
+          
+        
+      </ul>
+
+
+    
+
+
+
+
+        
+        <div style="width: 200px;"></div>
+
+      </section>
+      
+    
+    </article>
   </div>
-  <div class="item">
-    <i class="large link home icon" title="Home" onclick="window.location.href = 'http:\/\/intranet.aio.eu\/'"></i>
-  </div>
-  <div class="item">
-    <i id="theme-switch" class="large link icon" onclick="themeSwitch()"></i>
-  </div>
-</nav>
+</div>
+
+
+
 
           
 <div class="ui centered relaxed grid dream-grid">
+
   <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
-    <article class="dream-header">
-  <section class="ui top attached center aligned segment">
-    <div class="ui small image">
-      
-        <img src="/AIO-logo.png">
-      
-    </div>
-
-    <h1 class="ui medium header">AIO intern<div class="sub header" style="margin-top: 0.5rem;">AIO</div>
-    </h1>
-
-    <div class="ui horizontal list">
-      
-      <a class="item" href="/posts">
-        <i class="archive icon" title="Archives"></i>
-      </a>
-      
-      <a class="item" href="/tags">
-        <i class="tags icon" title="All Tags"></i>
-      </a>
-      <a class="item" href="/categories">
-        <i class="th list icon" title="All Categories"></i>
-      </a>
-    </div>
-  </section>
-
-  
-  <section class="ui attached center aligned segment dream-tags">
-    
-      <a class="ui label" href="/tags/aio" title="aio">aio</a>
-    
-      <a class="ui label" href="/tags/cse" title="cse">cse</a>
-    
-  </section>
-  
-
-  
-  <section class="ui attached segment dream-categories">
-    <div class="ui accordion">
-      
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/vie-ensemble" class="item">vie-ensemble</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="http://intranet.aio.eu/posts/ouverturesite/" class="item">OuvertureSite</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
-      
-    </div>
-  </section>
-  
-
-  <section class="ui bottom attached center aligned segment">
-      <a href="https://aio.eu/" alt="Site aio">aio.eu</a> - 
-      <a href="https://aio-platform.eu/" alt="paltform aio">aio-platform.eu</a>
-  </section>
-</article>
 
   </div>
-  <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
-    
-<article class="ui raised card dream-card" style="box-shadow: none;">
 
-  <div class="image">
-    
-  </div>
-
-  <div class="content">
-    <h2 class="ui medium header">
-      <a href="http://intranet.aio.eu/">AIO</a>
-    </h2>
-    <div class="meta">
-      
-    <div class="description">
-      <iframe src="http://aio.eu" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" allow="encrypted-media *"></iframe>
-    </div>
-  </div>
-</article>
-
-  </div>
 
   
   
@@ -176,21 +399,1725 @@
 
   <div class="image">
     
-      <img src="/postcover/cover3.png" alt="OuvertureSite" />
+      
+        <img  src="/IMG_0629.jpg" 
+              alt="Circuit Nettoyage Chiffons à Usage unique" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/circuit-nettoyage-chiffons-%C3%A0-usage-unique\/'"/>
+      
     
   </div>
 
   <div class="content">
     <h2 class="ui medium header">
-      <a href="http://intranet.aio.eu/posts/ouverturesite/">OuvertureSite</a>
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/circuit-nettoyage-chiffons-%C3%A0-usage-unique/">Circuit Nettoyage Chiffons à Usage unique</a>
     </h2>
     <div class="meta">
-      <p class="date">Friday, Apr 10, 2020</p>
-      <p class="author">@ Florian IT</p>
-    </div>
+      <p class="date">Monday, May 4, 2020</p>
+      <p class="author">@ EJOB</p>
+    </div> 
     <div class="description">
-       Cut out summary from your post content here.
+      Nouvelle Boucle logistique de Chiffons de désinfection postes
+    </div>
+  </div>
 
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_7908.jpg" 
+              alt="Cloisons d&#39;hygiène réfectoire" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/cloisons-d-hygi%C3%A8ne-r%C3%A9fectoire\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/cloisons-d-hygi%C3%A8ne-r%C3%A9fectoire/">Cloisons d&#39;hygiène réfectoire</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, May 4, 2020</p>
+      <p class="author">@ EJOB</p>
+    </div> 
+    <div class="description">
+      Une bâche totalement translucide pour partager la pause déjeuner tout en limitant les risques de contamination
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/CAO%201.jpg" 
+              alt="Continuez à apprendre de nouvelles astuces mécaniques sur la plateforme de MOOC AIO" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/apprendre-a-creer-le-lien-avec-le-digital\/continuez-%C3%A0-apprendre-de-nouvelles-astuces-m%C3%A9caniques-sur-la-plateforme-de-mooc-aio\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/continuez-%C3%A0-apprendre-de-nouvelles-astuces-m%C3%A9caniques-sur-la-plateforme-de-mooc-aio/">Continuez à apprendre de nouvelles astuces mécaniques sur la plateforme de MOOC AIO</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, May 4, 2020</p>
+      <p class="author">@ ACHA</p>
+    </div> 
+    <div class="description">
+      Vous pouvez accéder à toute les vidéos d’astuces sur la plateforme de MOOC pour en apprendre de nouvelles et tester votre compréhension ! Pour cela rendez vous sur notre site de MOOC interne, AIO Academy !
+Pour y accéder :
+AIO Academy: Se connecter sur le site
+Pour se connecter :
+Utiliser votre adresse email AIO ou votre diminutif à 4 lettres. Si vous n’avez pas de compte : utiliser l’adresse atelier@aio.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_6305.jpg" 
+              alt="Séparateurs Bureaux" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/s%C3%A9parateurs-bureaux\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/s%C3%A9parateurs-bureaux/">Séparateurs Bureaux</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, May 4, 2020</p>
+      <p class="author">@ EJOB</p>
+    </div> 
+    <div class="description">
+      Nouveaux écrans en Polycarbonate alvéolaire, des protections pour nous des inspirations pour nos clients
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/visu%20p%c3%a9dale.JPG" 
+              alt="Un nouveau Distributeur Main Libre (DML)" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/developpement-de-nouveaux-produits\/lutte-contre-covid\/un-nouveau-distributeur-main-libre-dml\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/un-nouveau-distributeur-main-libre-dml/">Un nouveau Distributeur Main Libre (DML)</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, May 4, 2020</p>
+      <p class="author">@ SMOU</p>
+    </div> 
+    <div class="description">
+      Notre nouveau DML est sorti! Un kaizen pour ALAFois un meilleur confort d’utilisation de la pédale et moins de composant!
+Il est proposé dès aujourd’hui sur notre plateforme publique à 109€!
+Continuez d’en faire la promotion!
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Work%209.png" 
+              alt="PV du CSE du 5 avril 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-5-avril-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-5-avril-2020/">PV du CSE du 5 avril 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, May 3, 2020</p>
+      <p class="author">@ SMOU</p>
+    </div> 
+    <div class="description">
+      Ci joint le PV du CSE de la semaine dernière, à votre dispo, Sébastien
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Covid-19-solutions-en.png" 
+              alt="Retour CSE du 04/05/2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/retour-cse-du-04-05-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/retour-cse-du-04-05-2020/">Retour CSE du 04/05/2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, May 3, 2020</p>
+      <p class="author">@ SMOU</p>
+    </div> 
+    <div class="description">
+      En attendant la validation du PV semaine prochaine, voici un court retour sur notre CSE du 04/05/2020 :
+. Point sanitaire :
+ Il faut qu’on avance tous ensemble, et plus vite , sur l’amélioration de nos conditions sanitaires. N’hésitez pas à faire des suggestions à vos TL lors des kick off et initier quelque chose! Les points sensibles sont selon nous le réfectoire, les vestiaires, WC… Nous allons mettre en place des sas afin de favoriser la désinfection avant de rentrer dans ces zones ainsi qu’un nettoyage quotidien des zones identifiées “à risque”.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      2 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/97fa6710-347a-4ba0-9b5e-e2d5e14c7ac6.JPG" 
+              alt="Arrivée de la machine à laver..." 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/arriv%C3%A9e-de-la-machine-%C3%A0-laver\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/arriv%C3%A9e-de-la-machine-%C3%A0-laver/">Arrivée de la machine à laver...</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 29, 2020</p>
+      <p class="author">@ JGUE</p>
+    </div> 
+    <div class="description">
+      Elle nous permettra de laver à 60° nos lingettes et tuer le COVID-19
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/aniosgel-800.jpg" 
+              alt="En plus dans le kit ... un gel personnel distribué dès cette semaine à chacun" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/en-plus-dans-le-kit-un-gel-personnel-distribu%C3%A9-d%C3%A8s-cette-semaine-%C3%A0-chacun\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/en-plus-dans-le-kit-un-gel-personnel-distribu%C3%A9-d%C3%A8s-cette-semaine-%C3%A0-chacun/">En plus dans le kit ... un gel personnel distribué dès cette semaine à chacun</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Apr 27, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      0 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/thermometre-frontal-et-auriculaire-thermoval-duo-scan-hartmann.jpg" 
+              alt="Après les masques ... Prise de la température" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/apr%C3%A8s-les-masques-prise-de-la-temp%C3%A9rature\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/apr%C3%A8s-les-masques-prise-de-la-temp%C3%A9rature/">Après les masques ... Prise de la température</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 26, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      En rupture de stock depuis des semaines, nous avons réussi à commander des thermomètres. Nous espérons les obtenir dans la semaine. Cela va nous permettre de faire une prise de température à l’entrée du batiment.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/spray-vaporisateur-1010-ml-pour-produit-menager.jpg" 
+              alt="Prise de poste et nettoyage" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/prise-de-poste-et-nettoyage\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/prise-de-poste-et-nettoyage/">Prise de poste et nettoyage</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 26, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      A chaque prise de poste, nettoyez votre zone de travail
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/drapeau-bleu-jaune-90-x-150-cm.png" 
+              alt="CHANGEMENT DE FONCTIONNEMENT" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/soutenir-l-activite\/changement-de-fonctionnement\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/soutenir-l-activite/changement-de-fonctionnement/">CHANGEMENT DE FONCTIONNEMENT</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Thursday, Apr 23, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      URGENT - fonctionnement avec 1 equipe Jaune en production le matin et 1 équipe Bleu l’après midi et cela toute la semaine. Attention le BE, l’IT et le commerce continueront avec un travail à la journée pour les Jaunes lundi et mardi et pour les Bleus mercresi et jeudi. Pour rappels, le vendredi est férié.
+Les horaires proposées sont 6h-13h et 13h-20h, les 7h seront payées 8h.
+Ce changement est dû à des demandes très ponctuelles pour la fabrication d&#39;équipements nécessaires aux renforcement des conditions sanitaires pour nos clients.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Compte%20LinkedIn.png" 
+              alt="Créer un profil LinkedIn" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/apprendre-a-creer-le-lien-avec-le-digital\/cr%C3%A9er-un-profil-linkedin\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/cr%C3%A9er-un-profil-linkedin/">Créer un profil LinkedIn</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Thursday, Apr 23, 2020</p>
+      <p class="author">@ Holly</p>
+    </div> 
+    <div class="description">
+      Créer un profil professionnel n’a jamais été aussi simple qu’avec LinkedIn ! Rejoignez votre équipe sur cette plateforme, bâtissez votre présence sur le plus grand réseau de professionnels au monde !
+Comment créer son profil ? https://www.linkedin.com/help/linkedin/answer/3171/s-identifier-pour-s-inscrire-sur-linkedin?lang=fr
+Quel est le standard AIO ? Bannière : Standard AIO (dans le commun/marketing/ressources graphiques/Réseaux sociaux/Bannières et icons/Réseaux AIO/Bannière Linkedin.png)
+Photo de profil : Photo devant photocall (à récupérer auprès de vos team leaders)
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/71dRTaV1FJL._AC_UX342_.jpg" 
+              alt="Safe pizza pour les verts devenus BLEUS" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/feter-nos-succes\/safe-pizza-pour-les-verts-devenus-bleus\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/safe-pizza-pour-les-verts-devenus-bleus/">Safe pizza pour les verts devenus BLEUS</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 22, 2020</p>
+      <p class="author">@ BGER</p>
+    </div> 
+    <div class="description">
+      Ca sera Pizza pour les bleus qui sont les anciens verts …MAIS… avec un dej’ avec plus de précaution… @ demain
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Platform.png" 
+              alt="Promotion plateforme sur réseaux sociaux" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/apprendre-a-creer-le-lien-avec-le-digital\/promotion-plateforme-sur-r%C3%A9seaux-sociaux\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/promotion-plateforme-sur-r%C3%A9seaux-sociaux/">Promotion plateforme sur réseaux sociaux</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 22, 2020</p>
+      <p class="author">@ Holly</p>
+    </div> 
+    <div class="description">
+      Bonsoir AIO team,
+Voici un poste pour les réseaux sociaux qui promeut notre nouvelle plateforme, qui nous aidera à répandre notre activité et à aider les autres :)
+Disponible en français et en anglais, je vous laisse copier/coller le poste, l’adapter si besoin aux spécificités de votre réseau, et l’accompagner de lien(s), de vidéo(s) ou d’image(s) (disponibles en-dessous). N’hésitez pas à taguer vos connaissances, on ne sait jamais, ça peut leur intéresser !
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      2 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/WhatsApp%20Image%202020-04-21%20at%2011.31.56.jpeg" 
+              alt="200 jours sans AT" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/feter-nos-succes\/200-jours-sans-at\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/200-jours-sans-at/">200 jours sans AT</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Tuesday, Apr 21, 2020</p>
+      <p class="author">@ RESP</p>
+    </div> 
+    <div class="description">
+      Bravo à toutes et tous, nous passons le cap des 200 jours sans AT… y’a quoi d’autre à part les pizzas?
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/public.png" 
+              alt="Site marchand " 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/soutenir-l-activite\/obtenir-des-commandes\/site-marchand\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/site-marchand/">Site marchand </a>
+    </h2>
+    <div class="meta">
+      <p class="date">Tuesday, Apr 21, 2020</p>
+      <p class="author">@ Florian</p>
+    </div> 
+    <div class="description">
+      Le site marchand public pour proposer nos solutions contre le covid-19 est disponible. A diffuser partout !
+Aidez les entreprises et organisations française à luter contre le covid et permettre aux collaborateurs de travailler en sécurité grâce à nos solutions astucieuse, réutilisable et super simple.
+Notre force ? Délai de livraison ultra-court et achat 100% par internet ! Un clic et c’est partie !
+https://public.aio-platform.eu/
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Doog.png" 
+              alt="L&#39;AGV suiveur à la norme CE" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/developpement-de-nouveaux-produits\/produire-en-france-eu\/l-agv-suiveur-%C3%A0-la-norme-ce\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/produire-en-france-eu/l-agv-suiveur-%C3%A0-la-norme-ce/">L&#39;AGV suiveur à la norme CE</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Apr 20, 2020</p>
+      <p class="author">@ FCOU/GGIM/OCOU</p>
+    </div> 
+    <div class="description">
+      Bravo pour la mise à la norme!!! y’a plus qu&#39;à le vendre au travers notre solution de décontamination …
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/pizza-party-jxl-prints.jpg" 
+              alt="Pizza party revisited" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/feter-nos-succes\/pizza-party-revisited\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/pizza-party-revisited/">Pizza party revisited</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Apr 20, 2020</p>
+      <p class="author">@ BGER</p>
+    </div> 
+    <div class="description">
+      Attention la pizza party doit se mettre à la page et se protéger du COVID-19. Nous éviterons donc de se pencher sur les pizzas Premier test avec l&#39;équipe ROUGE demain.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/KKR%20030%20thumbnail-1.png" 
+              alt="Contrat de Location AGV Désinfection" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/soutenir-l-activite\/ameliorer-nos-produits\/contrat-de-location-agv-d%C3%A9sinfection\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/contrat-de-location-agv-d%C3%A9sinfection/">Contrat de Location AGV Désinfection</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ EJOB</p>
+    </div> 
+    <div class="description">
+      Nous proposons à nos clients un nouveau service sous forme de contrat de location AGV suiveur avec système de pulvérisation de produit désinfectant.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/WhatsApp%20Image%202020-04-20%20at%2012.23.12.jpeg" 
+              alt="Les 5000 masques sont arrivés !!" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/les-masques-sont-arriv%C3%A9s\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-masques-sont-arriv%C3%A9s/">Les 5000 masques sont arrivés !!</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Photos de Sébastien… prochain jalon des masques à la norme CE, lavables 50 fois
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/WhatsApp%20Image%202020-04-14%20at%2015.07.40.jpeg" 
+              alt="Les Rouges et les verts - rythme pour les semaines à venir" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/les-rouges-et-les-verts-rythme-pour-les-semaines-%C3%A0-venir\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/les-rouges-et-les-verts-rythme-pour-les-semaines-%C3%A0-venir/">Les Rouges et les verts - rythme pour les semaines à venir</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ JTOR</p>
+    </div> 
+    <div class="description">
+      
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      0 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_5710.jpg" 
+              alt="Masques, un tuyau des pros. Cliquez et regardez la vidéo ... bon standard à apprendre" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/masques-un-tuyau-des-pros\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/masques-un-tuyau-des-pros/">Masques, un tuyau des pros. Cliquez et regardez la vidéo ... bon standard à apprendre</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      0 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/uploads/cover5.png" 
+              alt="PV du CSE du 14 avril 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-20-avril-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020/">PV du CSE du 14 avril 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      0 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Team%20AIO%206.png" 
+              alt="PV du CSE du 20 avril 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-20-avril-2020-1\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-20-avril-2020-1/">PV du CSE du 20 avril 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ SMOU</p>
+    </div> 
+    <div class="description">
+      A lire comme les précédents,
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_5722.PNG" 
+              alt="Relayer nos innovations sur vos réseaux sociaux ... peut nous permettre de faire des ventes" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/soutenir-l-activite\/obtenir-des-commandes\/relayez-nos-innovations-sur-vos-r%C3%A9seaux-sociaux-peut-nous-permettre-de-faire-des-ventes\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/relayez-nos-innovations-sur-vos-r%C3%A9seaux-sociaux-peut-nous-permettre-de-faire-des-ventes/">Relayer nos innovations sur vos réseaux sociaux ... peut nous permettre de faire des ventes</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Sunday, Apr 19, 2020</p>
+      <p class="author">@ </p>
+    </div> 
+    <div class="description">
+      Diffusez sur Facebook, Twitter, LinkedIn ou Insta …
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/postcover/cover1.jpg" 
+              alt="PV du CSE du 23 mars 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-23-mars-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-23-mars-2020/">PV du CSE du 23 mars 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Thursday, Apr 16, 2020</p>
+      <p class="author">@ </p>
+    </div> 
+    <div class="description">
+      Bonne lecture du PV du 23 mars
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Discord-Une.png" 
+              alt="Comment partager son écran sous DISCORD? regarde le tuto" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/apprendre-a-creer-le-lien-avec-le-digital\/comment-partager-son-%C3%A9cran-sous-discord-regarde-le-tuto\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/comment-partager-son-%C3%A9cran-sous-discord-regarde-le-tuto/">Comment partager son écran sous DISCORD? regarde le tuto</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ ACHA </p>
+    </div> 
+    <div class="description">
+      Regardez cette vidéo pour savoir comment streamer son écran avec Discord.
+![](/Capture dcran 2020-04-20 à 21.47.29.jpg)
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Cloture.png" 
+              alt="De nouveaux standards pour nos clients ... pour renforcer les conditions sanitaires" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/soutenir-l-activite\/ameliorer-nos-produits\/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires/">De nouveaux standards pour nos clients ... pour renforcer les conditions sanitaires</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ EJOB</p>
+    </div> 
+    <div class="description">
+      Tout nouveau, tout beau, bravo aux équipes pour ce nouveau standard … commande de 10 kits en cours de livraison
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/BUSE5.jpg" 
+              alt="Désinfection du RDC du batiment de Pessac... regardez la vidéo" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/d%C3%A9sinfection-du-rdc-du-batiment-de-pessac\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9sinfection-du-rdc-du-batiment-de-pessac/">Désinfection du RDC du batiment de Pessac... regardez la vidéo</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ Cyril</p>
+    </div> 
+    <div class="description">
+      Notre challenge du jour … faire un cycle à blanc de l’AGV dans tout l’atelier et les bureaux du bas
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/WhatsApp%20Image%202020-04-17%20at%2013.01.20.jpeg" 
+              alt="IMMINENT - Arrivée de 5 000 masques" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/d%C3%A9part-des-masques-depuis-un-entrep%C3%B4t-d-aubervilliers-aujourd-hui-ou-au-plus-tard-demain-matin-via-chronopost-nous-esp%C3%A9rons-les-recevoir-lundi-ou-mardi-suivant-les-difficult%C3%A9s-de-chronopost-%C3%A0-nous-livrer\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/d%C3%A9part-des-masques-depuis-un-entrep%C3%B4t-d-aubervilliers-aujourd-hui-ou-au-plus-tard-demain-matin-via-chronopost-nous-esp%C3%A9rons-les-recevoir-lundi-ou-mardi-suivant-les-difficult%C3%A9s-de-chronopost-%C3%A0-nous-livrer/">IMMINENT - Arrivée de 5 000 masques</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Départ des masques depuis un entrepôt d’Aubervilliers aujourd’hui 16 avril ou au plus tard demain matin via Chronopost… Nous espérons les recevoir lundi ou mardi suivant les difficultés de Chronopost à nous livrer
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/postcover/cover1.png" 
+              alt="PV du CSE du 13 mars 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-13-mars-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-13-mars-2020/">PV du CSE du 13 mars 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Bonne lecture - PV du 13 mars 2020
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/postcover/cover3.png" 
+              alt="PV du CSE du 30 mars 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-30-mars-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-30-mars-2020/">PV du CSE du 30 mars 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Bonne lecture - PV du 30 mars 2020
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/postcover/cover7.jpg" 
+              alt="PV du CSE du 6 avril 2020" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/cse\/pv-du-cse-du-6-avril-2020\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/cse/pv-du-cse-du-6-avril-2020/">PV du CSE du 6 avril 2020</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Bonne lecture ;)
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Gel.png" 
+              alt="Un pouce mousse à pédale" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/developpement-de-nouveaux-produits\/lutte-contre-covid\/test-pdf\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/lutte-contre-covid/test-pdf/">Un pouce mousse à pédale</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Découvert ce matin en rentrant dans la société, une astuce de l&#39;équipe ROUGE. Que Loic a aussitôt vendu à Schneider 2 premiers exemplaires … Merci de vos KAIZEN et vos nouvelles idées de produits ou de services. Découvrez la vidéo avec un petit clic
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/5df0b05f-5c7d-4084-8ec4-33b9e3bf09ff.JPG" 
+              alt="Une arrivée bien protégée" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/une-arriv%C3%A9e-bien-prot%C3%A9g%C3%A9e\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/une-arriv%C3%A9e-bien-prot%C3%A9g%C3%A9e/">Une arrivée bien protégée</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ CDAN</p>
+    </div> 
+    <div class="description">
+      Pascal nous montre les EPI à porter avant de RENTRER dans notre usine ;) pessacaise
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/Toyota-Kanban-Cropped.jpg" 
+              alt="Une video pour m&#39;expliquer les KANBAN?" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/vivre-ensemble\/apprendre-a-creer-le-lien-avec-le-digital\/qui-me-fais-une-video-pour-m-expliquer-les-kanban\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/qui-me-fais-une-video-pour-m-expliquer-les-kanban/">Une video pour m&#39;expliquer les KANBAN?</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Wednesday, Apr 15, 2020</p>
+      <p class="author">@ </p>
+    </div> 
+    <div class="description">
+      Votre video est à venir… mais ce que nous savons c’est que les KANBAN nous aide à regarder dans la bonne direction en nous révélant les problèmes
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/images.jpeg" 
+              alt="Covid-19, même pendant la pizza party ..." 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/covid-19-m%C3%AAme-pendant-la-pizza-party\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/covid-19-m%C3%AAme-pendant-la-pizza-party/">Covid-19, même pendant la pizza party ...</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Jan 1, 0001</p>
+      <p class="author">@ BGER</p>
+    </div> 
+    <div class="description">
+      Les entreprises modifient les fonctionnements des cantines/self … et des pauses déjeuner. Le COVID-19 s’invite aussi sur le pain de nos panières à pain ou sur les buffets proposés dans les cantines… et donc sur nos PIZZAS.
+Nous vous proposons donc d&#39;éviter les contacts dans la prise des parts de pizzas, et de désigner une personne pour faire le dispatching des parts de façon protégée …
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_20200420_1343161.jpg" 
+              alt="Envois à vos domiciles pour les 100% confinés" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/envois-%C3%A0-vos-domiciles-pour-les-100-confin%C3%A9s\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/envois-%C3%A0-vos-domiciles-pour-les-100-confin%C3%A9s/">Envois à vos domiciles pour les 100% confinés</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Jan 1, 0001</p>
+      <p class="author">@ JGUE</p>
+    </div> 
+    <div class="description">
+      Nous allons faire passer à toutes les personnes qui n’appartiennent ni aux ROUGE, ni aux VERT un kit à votre domicile via UPS. Cela vous permettra de rentrer dans l’usine avec tout ce qu’il faut.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_5637-1.jpg" 
+              alt="Mais aussi avec les pieds ..." 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/mais-aussi-avec-les-pieds\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/mais-aussi-avec-les-pieds/">Mais aussi avec les pieds ...</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Jan 1, 0001</p>
+      <p class="author">@ </p>
+    </div> 
+    <div class="description">
+      
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      0 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/5e9716d616dd3171028b457e.jpg" 
+              alt="PGE, plan garantie par l&#39;état chez AIO" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/rester-a-flot\/pge-plan-garantie-par-l-%C3%A9tat-chez-aio\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/rester-a-flot/pge-plan-garantie-par-l-%C3%A9tat-chez-aio/">PGE, plan garantie par l&#39;état chez AIO</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Jan 1, 0001</p>
+      <p class="author">@ </p>
+    </div> 
+    <div class="description">
+      Nous avons fait auprès de nos partenaires bancaires une demande de prêt, PGE prêt lancé par l&#39;état en soutien aux entreprises. Nous attendons ce jour encore validation de 2 banques. Ce prêt doit nous permettre de passer cette période incertaine en trésorerie. Toutefois l’argent sera à rendre (et oui c’est un prêt et pas un don) dans 12 mois.
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/dd1ea457-bfb9-48e8-ba55-966eddc9b334.JPG" 
+              alt="Sans les mains ..." 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/conditions-sanitaires\/5s-sanitaires\/sans-les-mains\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/conditions-sanitaires/5s-sanitaires/sans-les-mains/">Sans les mains ...</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Jan 1, 0001</p>
+      <p class="author">@ </p>
+    </div> 
+    <div class="description">
+      Bravo à l&#39;équipe ROUGE … pour le moment qu&#39;à l’entrée…
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a>
+      <i class="clock icon"></i>
+      1 minute read
+    </a>
+  </div>
+</article>
+
+    </div>
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card" style="box-shadow: none;">
+
+  <div class="image">
+    
+      
+        <img  src="/IMG_5480.jpg" 
+              alt="VENDU ce matin à CNH - AGV diffuseur" 
+              style="cursor: pointer;"
+              onclick="window.location.href = 'http:\/\/intranet.aiotools.ovh\/soutenir-l-activite\/livrer-les-clients\/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur\/'"/>
+      
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur/">VENDU ce matin à CNH - AGV diffuseur</a>
+    </h2>
+    <div class="meta">
+      <p class="date">Monday, Jan 1, 0001</p>
+      <p class="author">@ EJOB</p>
+    </div> 
+    <div class="description">
+      Première vente de notre AGV pour décontaminer les ateliers à… 20 000 m2/heure, pour le site CNH-FIAT de Bourbon Lancy. Bravo à tous
     </div>
   </div>
 
@@ -213,32 +2140,338 @@
 </div>
 
 
+
         </section>
         <section class="back">
           
-<nav class="ui secondary inverted menu dream-menu">
+          <div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile wide tablet wide computer column dream-column">
+    <article class="dream-header">
+      <section class="ui top attached center aligned segment">
+        <div class="ui small image">
+          
+            <a href="http://intranet.aiotools.ovh" title="Home">
+              <img src="/AIO-logo.png">
+            </a>
+          
+        </div>
 
-  <div class="item">
-    <i class="large link bullseye icon dream-flip-toggle" title="Flip it!"></i>
+        
+      </section>
+      
+      <script>
+                          
+        function removeClass(e, c) {
+          elm = document.querySelectorAll(mClass);
+          for (var i = 0; i < elm.length; i++) {
+            if (c == 'active') {
+              elm[i].classList.remove('active');
+            } else {
+              if (!elm[i].classList.contains('active')) elm[i].querySelector('.list-sub').classList.remove('show');
+            }
+          }
+        }
+        
+        var mClass = '.sub-toggle'
+        var menu = document.querySelectorAll(mClass);
+        menu.forEach(function(o) {
+          o.addEventListener('click', function(e) {
+            
+            removeClass(o, 'active');
+            this.classList.add('active');
+            removeClass(o);
+            this.querySelector('.list-sub').classList.toggle('show');
+          });
+        });
+        </script>
+      <section class="ui attached center aligned segment">
+        
+        
+        
+        
+
+        <ul class="list-horizontal">
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-0 space-label cat-fixed-height"
+              id=0
+              title="Sécurité &amp; Conditions sanitaires"
+              style="width: 150px;">
+             <span>Sécurité &amp; Conditions sanitaires</span>
+            </a>
+              <ul 
+              id=0
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-0-sub space-label sub-all-posts" 
+                    href="/conditions-sanitaires/" 
+                    title="Sécurité &amp; Conditions sanitaires"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-0-sub space-label" 
+                                href="/conditions-sanitaires/5s-sanitaires/" 
+                                title="5S sanitaires"
+                                style="width: 150px;">
+                                5S sanitaires
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-0-sub space-label" 
+                                href="/conditions-sanitaires/covid-19/" 
+                                title="Plan suspicion COVID-19"
+                                style="width: 150px;">
+                                Plan suspicion COVID-19
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-1 space-label cat-fixed-height"
+              id=1
+              title="Soutenir l&#39;activité"
+              style="width: 150px;">
+             <span>Soutenir l&#39;activité</span>
+            </a>
+              <ul 
+              id=1
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-1-sub space-label sub-all-posts" 
+                    href="/soutenir-l-activite/" 
+                    title="Soutenir l&#39;activité"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-1-sub space-label" 
+                                href="/soutenir-l-activite/livrer-les-clients/" 
+                                title="Livrer les clients"
+                                style="width: 150px;">
+                                Livrer les clients
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-1-sub space-label" 
+                                href="/soutenir-l-activite/obtenir-des-commandes/" 
+                                title="Obtenir des commandes"
+                                style="width: 150px;">
+                                Obtenir des commandes
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-1-sub space-label" 
+                                href="/soutenir-l-activite/ameliorer-nos-produits/" 
+                                title="Améliorer nos produits"
+                                style="width: 150px;">
+                                Améliorer nos produits
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-2 space-label cat-fixed-height"
+              id=2
+              title="Développement de nouveaux produits"
+              style="width: 150px;">
+             <span>Développement de nouveaux produits</span>
+            </a>
+              <ul 
+              id=2
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-2-sub space-label sub-all-posts" 
+                    href="/developpement-de-nouveaux-produits/" 
+                    title="Développement de nouveaux produits"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/lutte-contre-covid/" 
+                                title="Des produits pour lutter contre le COVID"
+                                style="width: 150px;">
+                                Des produits pour lutter contre le COVID
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/ameliorer-la-formation-et-le-developpement-du-kkr/" 
+                                title="Améliorer la formation et le développement du KKR"
+                                style="width: 150px;">
+                                Améliorer la formation et le développement du KKR
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/produire-en-france-eu/" 
+                                title="Produire en France et EU"
+                                style="width: 150px;">
+                                Produire en France et EU
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-2-sub space-label" 
+                                href="/developpement-de-nouveaux-produits/comprendre-le-geste/" 
+                                title="Comprendre le geste"
+                                style="width: 150px;">
+                                Comprendre le geste
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li class="sub-toggle">
+              <a  
+              class="ui label cat-3 space-label cat-fixed-height"
+              id=3
+              title="Vivre ensemble"
+              style="width: 150px;">
+             <span>Vivre ensemble</span>
+            </a>
+              <ul 
+              id=3
+              class="list-vertical list-sub">
+              <li >
+                <a  class="ui label cat-3-sub space-label sub-all-posts" 
+                    href="/vivre-ensemble/" 
+                    title="Vivre ensemble"
+                    style="width: 150px;">
+                    Tous les articles
+                </a>
+              </li>
+                    
+                        <li >
+                            <a  class="ui label cat-3-sub space-label" 
+                                href="/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/" 
+                                title="Apprendre à créer le lien avec le digital"
+                                style="width: 150px;">
+                                Apprendre à créer le lien avec le digital
+                            </a>
+                        </li>
+                    
+                        <li >
+                            <a  class="ui label cat-3-sub space-label" 
+                                href="/vivre-ensemble/feter-nos-succes/" 
+                                title="Fêter nos succès"
+                                style="width: 150px;">
+                                Fêter nos succès
+                            </a>
+                        </li>
+                    
+              </ul>
+            </li>
+
+
+           
+          
+            
+          
+        
+        
+            
+            <li>
+              <a  class="ui label cat-4 space-label cat-fixed-height" 
+                  href="/rester-a-flot/" 
+                  title="Rester à flot"
+                  style="width: 150px;">
+                  Rester à flot
+              </a>
+            </li>
+            
+          
+        
+        
+            
+            <li>
+              <a  class="ui label cat-5 space-label cat-fixed-height" 
+                  href="/cse/" 
+                  title="CSE"
+                  style="width: 150px;">
+                  CSE
+              </a>
+            </li>
+            
+          
+        
+      </ul>
+
+
+    
+
+
+
+
+        
+        <div style="width: 200px;"></div>
+
+      </section>
+      
+    
+    </article>
   </div>
-  <div class="item">
-    <i class="large link home icon" title="Home" onclick="window.location.href = 'http:\/\/intranet.aio.eu\/'"></i>
-  </div>
-  <div class="item">
-    <i id="theme-switch" class="large link icon" onclick="themeSwitch()"></i>
-  </div>
-</nav>
+</div>
+
+
+
 
           <div class="ui centered relaxed grid dream-grid dream-back">
   
     <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
       <article>
         <div class="ui top attached segment">
-          <h3 class="ui header">Desc</h3>
+          <h3 class="ui header">Informations Générales </h3>
         </div>
         <div class="ui attached segment markdown-body">
-          <p>Cut out summary from your post content here.</p>
-<p>The remaining content of your post.</p>
+          <p>Info de notre choix</p>
+
         </div>
       </article>
     </section>
