@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIO</title>
+    <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/</link>
+    <description>Recent content on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 22 Apr 2020 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safe pizza pour les verts devenus BLEUS</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/safe-pizza-pour-les-verts-devenus-bleus/</link>
+      <pubDate>Wed, 22 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/safe-pizza-pour-les-verts-devenus-bleus/</guid>
+      <description>Ca sera Pizza pour les bleus qui sont les anciens verts &amp;hellip;MAIS&amp;hellip; avec un dej&amp;rsquo; avec plus de précaution&amp;hellip; @ demain</description>
+    </item>
+    
+    <item>
+      <title>200 jours sans AT</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/200-jours-sans-at/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/200-jours-sans-at/</guid>
+      <description>Bravo à toutes et tous, nous passons le cap des 200 jours sans AT&amp;hellip; y&amp;rsquo;a quoi d&amp;rsquo;autre à part les pizzas?</description>
+    </item>
+    
+    <item>
+      <title>Pizza party revisited</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/pizza-party-revisited/</link>
+      <pubDate>Mon, 20 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/pizza-party-revisited/</guid>
+      <description>Attention la pizza party doit se mettre à la page et se protéger du COVID-19. Nous éviterons donc de se pencher sur les pizzas Premier test avec l&#39;équipe ROUGE demain.</description>
+    </item>
+    
+  </channel>
+</rss>

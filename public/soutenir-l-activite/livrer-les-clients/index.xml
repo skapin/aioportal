@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIO</title>
+    <link>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/</link>
+    <description>Recent content on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VENDU ce matin à CNH - AGV diffuseur</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/livrer-les-clients/vendu-ce-matin-%C3%A0-cnh-agv-diffuseur/</guid>
+      <description>Première vente de notre AGV pour décontaminer les ateliers à&amp;hellip; 20 000 m2/heure, pour le site CNH-FIAT de Bourbon Lancy. Bravo à tous</description>
+    </item>
+    
+  </channel>
+</rss>

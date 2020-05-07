@@ -1,0 +1,167 @@
+.tomate {
+	font-size: 3em;
+}
+
+
+#dream-save-post-as-img {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  min-height: 120%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+/* Nested Menu display - START */
+.cat-0,
+.cat-1,
+.cat-2,
+.cat-3,
+.cat-4,
+.cat-5,
+.cat-6,
+.cat-0-sub,
+.cat-1-sub,
+.cat-2-sub,
+.cat-3-sub,
+.cat-4-sub,
+.cat-5-sub,
+.cat-6-sub
+ {
+  color: white !important;
+}
+
+/* ------ */
+
+.cat-0,
+.cat-0-sub:hover {
+  background-color: #0E6EB8 !important;
+}
+.cat-0-sub {
+  background-color: rgb(101, 152, 190) !important;
+}
+.cat-0:hover {
+  background-color: rgb(10, 67, 110) !important;
+}
+
+/* ------ */
+
+.cat-1,
+.cat-1-sub:hover {
+  background-color: teal !important;
+}
+.cat-1:hover {
+  background-color: rgb(0, 94, 94) !important;
+}
+.cat-1-sub {
+  background-color: rgb(115, 180, 180) !important;
+}
+
+/* ------- */
+
+.cat-2,
+.cat-2-sub:hover {
+  background-color: green !important;
+}
+.cat-2-sub {
+  background-color: rgb(130, 196, 130) !important;
+}
+.cat-2:hover {
+  background-color: rgb(0, 78, 0) !important;
+}
+
+/* ------- */
+
+.cat-3,
+.cat-3-sub:hover {
+  background-color: olive !important;
+}
+.cat-3-sub {
+  background-color: rgb(207, 207, 118) !important;
+}
+.cat-3:hover {
+  background-color: rgb(77, 77, 0) !important;
+}
+
+/* ------- */
+
+.cat-4,
+.cat-4-sub:hover {
+  background-color: rgb(167, 132, 57) !important;
+}
+.cat-4-sub {
+  background-color: rgb(216, 190, 135)  !important;
+}
+.cat-4:hover {
+  background-color: rgb(102, 80, 32) !important;
+}
+
+/* ------- */
+
+.cat-5,
+.cat-5-sub:hover {
+  background-color: orange !important;
+}
+.cat-5-sub {
+  background-color: rgb(247, 210, 141)  !important;
+}
+.cat-5:hover {
+  background-color: rgb(158, 103, 1) !important;
+}
+
+/* ------- */
+
+.cat-6,
+.cat-6-sub:hover {
+  background-color: #FFD700 !important;
+}
+.cat-6-sub {
+  background-color: rgb(202, 185, 86)  !important;
+}
+.cat-6:hover {
+  background-color: rgb(179, 152, 2) !important;
+}
+
+
+.list-horizontal {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.list-vertical {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cat-fixed-height {
+  min-height: 38px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.space-label {
+  margin: 2px 4px !important;
+}
+
+.sub-all-posts {
+  background-color: inherit !important;
+  border: solid 1px #333 !important;
+  color: #333 !important;
+}
+
+.sub-all-posts:hover {
+  color: white !important;
+}
+
+ul.list-sub {
+  display: none;
+}
+.list-sub.show {
+  display: block;
+}
+/* Nested Menu display - END */

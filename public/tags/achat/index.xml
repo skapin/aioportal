@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>achat on AIO</title>
+    <link>http://intranet.aiotools.ovh/tags/achat/</link>
+    <description>Recent content in achat on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 21 Apr 2020 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://intranet.aiotools.ovh/tags/achat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site marchand </title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/site-marchand/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/obtenir-des-commandes/site-marchand/</guid>
+      <description>Le site marchand public pour proposer nos solutions contre le covid-19 est disponible. A diffuser partout !
+Aidez les entreprises et organisations française à luter contre le covid et permettre aux collaborateurs de travailler en sécurité grâce à nos solutions astucieuse, réutilisable et super simple.
+Notre force ? Délai de livraison ultra-court et achat 100% par internet ! Un clic et c&amp;rsquo;est partie !
+https://public.aio-platform.eu/</description>
+    </item>
+    
+  </channel>
+</rss>

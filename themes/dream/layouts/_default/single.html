@@ -23,7 +23,7 @@
           </iframe>
         </div>
       {{ end }}
-      <article style="margin-top: 2rem;">{{ .Content | emojify }}</article>
+      <article style="margin-top: 2rem;">{{ .Content | urlize }}</article>
       {{ if isset .Params "pdf_link" | and  (ne .Params.pdf_link "") }}
         <div style="text-align: center;margin:2%;">
           <a href="{{.Params.pdf_link}}">Télécharger le PDF</a>

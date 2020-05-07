@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soutenir-l-activites on AIO</title>
+    <link>http://intranet.aiotools.ovh/soutenir-l-activite/</link>
+    <description>Recent content in Soutenir-l-activites on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 23 Apr 2020 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://intranet.aiotools.ovh/soutenir-l-activite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHANGEMENT DE FONCTIONNEMENT</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/changement-de-fonctionnement/</link>
+      <pubDate>Thu, 23 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/changement-de-fonctionnement/</guid>
+      <description>URGENT - fonctionnement avec 1 equipe Jaune en production le matin et 1 équipe Bleu l&amp;rsquo;après midi et cela toute la semaine. Attention le BE, l&amp;rsquo;IT et le commerce continueront avec un travail à la journée pour les Jaunes lundi et mardi et pour les Bleus mercresi et jeudi. Pour rappels, le vendredi est férié.
+Les horaires proposées sont 6h-13h et 13h-20h, les 7h seront payées 8h.
+Ce changement est dû à des demandes très ponctuelles pour la fabrication d&#39;équipements nécessaires aux renforcement des conditions sanitaires pour nos clients.</description>
+    </item>
+    
+  </channel>
+</rss>

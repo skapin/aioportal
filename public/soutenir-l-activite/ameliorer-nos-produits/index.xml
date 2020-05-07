@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIO</title>
+    <link>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/</link>
+    <description>Recent content on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 19 Apr 2020 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contrat de Location AGV Désinfection</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/contrat-de-location-agv-d%C3%A9sinfection/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/contrat-de-location-agv-d%C3%A9sinfection/</guid>
+      <description>Nous proposons à nos clients un nouveau service sous forme de contrat de location AGV suiveur avec système de pulvérisation de produit désinfectant.</description>
+    </item>
+    
+    <item>
+      <title>De nouveaux standards pour nos clients ... pour renforcer les conditions sanitaires</title>
+      <link>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires/</link>
+      <pubDate>Wed, 15 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/soutenir-l-activite/ameliorer-nos-produits/de-nouveaux-standards-pour-nos-clients-pour-renforcer-les-conditions-sanitaires/</guid>
+      <description>Tout nouveau, tout beau, bravo aux équipes pour ce nouveau standard &amp;hellip; commande de 10 kits en cours de livraison</description>
+    </item>
+    
+  </channel>
+</rss>

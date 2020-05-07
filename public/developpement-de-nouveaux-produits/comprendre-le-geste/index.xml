@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIO</title>
+    <link>http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/comprendre-le-geste/</link>
+    <description>Recent content on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="http://intranet.aiotools.ovh/developpement-de-nouveaux-produits/comprendre-le-geste/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rester-a-flots on AIO</title>
+    <link>http://intranet.aiotools.ovh/rester-a-flot/</link>
+    <description>Recent content in Rester-a-flots on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="http://intranet.aiotools.ovh/rester-a-flot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PGE, plan garantie par l&#39;état chez AIO</title>
+      <link>http://intranet.aiotools.ovh/rester-a-flot/pge-plan-garantie-par-l-%C3%A9tat-chez-aio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/rester-a-flot/pge-plan-garantie-par-l-%C3%A9tat-chez-aio/</guid>
+      <description>Nous avons fait auprès de nos partenaires bancaires une demande de prêt, PGE prêt lancé par l&#39;état en soutien aux entreprises. Nous attendons ce jour encore validation de 2 banques. Ce prêt doit nous permettre de passer cette période incertaine en trésorerie. Toutefois l&amp;rsquo;argent sera à rendre (et oui c&amp;rsquo;est un prêt et pas un don) dans 12 mois.</description>
+    </item>
+    
+  </channel>
+</rss>
