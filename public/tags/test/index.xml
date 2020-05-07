@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on AIO</title>
+    <link>http://intranet.aiotools.ovh/tags/test/</link>
+    <description>Recent content in test on AIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 21 Apr 2020 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://intranet.aiotools.ovh/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/test/</link>
+      <pubDate>Tue, 21 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://intranet.aiotools.ovh/vivre-ensemble/feter-nos-succes/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
