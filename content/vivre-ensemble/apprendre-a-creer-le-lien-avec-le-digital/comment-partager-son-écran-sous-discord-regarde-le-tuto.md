@@ -13,5 +13,3 @@ youtube_video_id = "foUZk8H-U3c"
 Regardez cette vidéo pour savoir comment streamer son écran avec Discord.
 
 ![](/Capture d’écran 2020-04-20 à 21.47.38.jpg)
-
-![](/thermometre-frontal-et-auriculaire-thermoval-duo-scan-hartmann.jpg)
