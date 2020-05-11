@@ -12,4 +12,4 @@ youtube_video_id = "foUZk8H-U3c"
 +++
 Regardez cette vidéo pour savoir comment streamer son écran avec Discord.
 
-![](/Capture d’écran de 2020-03-07 12-57-46.png)
+![](/Capture d’écran de 2020-05-07 17-12-51.png)
