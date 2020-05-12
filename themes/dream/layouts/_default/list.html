@@ -42,7 +42,6 @@
     {{ if in (.Permalink | string) $currentSection.RelPermalink }}
       {{ $pages = $pages | append . }}
       <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
-
         {{ .Render "summary" }}
       </div>
     {{ end }}
