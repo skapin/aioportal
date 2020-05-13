@@ -3,6 +3,7 @@ paginate = 50
 languageCode = "fr-fr"
 theme = "dream"
 title = "AIO"
+googleAnalytics = "UA-166333245-1"
 
 
 
@@ -149,3 +150,4 @@ custom_css = ["/css/aio.css"]
 
 [markup]
   defaultMarkdownHandler = "blackFriday"
+
