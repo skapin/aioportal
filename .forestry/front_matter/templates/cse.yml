@@ -44,6 +44,7 @@ fields:
   label: pdf
   description: Charger un PDF
 pages:
+- content/cse/faq-fiche-de-paie.md
 - content/cse/pv-du-cse-du-13-mars-2020.md
 - content/cse/pv-du-cse-du-20-avril-2020-1.md
 - content/cse/pv-du-cse-du-20-avril-2020.md
