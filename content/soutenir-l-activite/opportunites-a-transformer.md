@@ -3,7 +3,6 @@ author = "EJOB"
 categories = "Soutenir L'activité"
 cover = "/transactions-hubspot.jpg"
 date = 2020-05-13T22:00:00Z
-draft = true
 pdf_link = ""
 tags = []
 title = "Opportunités à transformer"
